@@ -4,7 +4,7 @@
 - System 1: Slow, intuitive thought, entirely automatic from peception and memory (what is the capital of russia ?)
 - System 2: Fast, more deliberate and effortful form of thinking (is there a lamp in the desk ?)
 - We believe we know what goes in our head but most of the thoughts, impressions arise in our conscious experience without we knowing how they got there
-  - We cannot trace how we came to know thre is a lamp on the desk in front of us, or how we detected a hint of irritation in our spouse's voice
+  - We cannot trace how we came to know there is a lamp on the desk in front of us, or how we detected a hint of irritation in our spouse's voice
 - Book aims to improve ability to identify and understand error in judgements and choices; suggest invervention to limit the damage
 - 'Steve the librarian' demonstration - people ignore base rates when making assumptions
 - We might think adultery is more common among politicians than among physicians or lawyers due to the aphrodisiac effect of power and the temptations of life away from home, but its actually because transgressions in politicians are more likely to be reported
@@ -95,7 +95,7 @@
 - Bat-and-ball like questions are somewhat better indicators of intelligence that conventional measure of intelligence such as IQ tests
 
 ### The associative machine
-- **Associative activation**: ideas that have been evoken trigger many other ideas, in a spreading cascade of activity in your brain
+- **Associative activation**: ideas that have been evoked trigger many other ideas, in a spreading cascade of activity in your brain
 - Banana-Vomit example: the word evokes memories, which evoke emotions, which in turn evoke facial expressions and other reactions
 - System treats the mere conjunction of two words as representation of reality. Your body reacted in an attenuated replica of a reaction to the real thing, and the emotional response and physical recoil were part of the interpretation of the event. **Congnition is embodied: you think with your body, not only with your brain**
 - The mechanisam that causes these mental events: **association of ideas**
@@ -116,5 +116,31 @@
 - Feeling that one's soul is stained appears to trigger a desire to cleanse one's body, aka **Lady Macbeth effect**
 - The effects of primes are robust but not necessarily large. For eg it can change uncertain people in an election but a few percent could tip an election
 - Priming phenomenon arises in system 1 and you have no conscious access to them
-- Honesty box experiment - on average, users contributes three times as much in eye weeks ask opposed to flower weeks
+- Honesty box experiment - on average, users contributed three times as much in eye weeks as opposed to flower weeks
 - System 1 produces impressions that turn into your beliefs, and is the source of the impulses that often become your choices and your actions.
+
+### Cognitive ease
+- At any point, multiple computations are going on in our brain. One such computation is determining cognitive ease.
+- Cognitive ease means things are going well-no threats, no major news, no need to redirect attention or mobilize effor.
+- Cognitive strain means there are problems and require increased mobilization of system 2
+- When are in state of cognitive ease, we are probably in good mood, like what we see, believe what we hear, trust our intuitions and feel that the current situation is comfortably similar. We are also relatively casual and superficial in our thinking.
+- A happy mood loosens the control of system 2
+- When strained, we are vigilant and suspicious, invest more effort in what we are doing, feel less comfortable, make few errors, but also less creative and intuitive
+- We are equally susceptible to mental illusions(like optical illusions). Names we have already seen before will be seen more clearly and have a sense of familiarity of them. We will see such names even if they are shown very briefly or masked by noise, and we will be quicker to read them. We experience greater cognitive ease in perceiving a word we have seen earlier. This is called **illusion of familiarity**.
+- If no good answer comes to mind, we go by cognitive ease. If the answer feels familiar, we perceive it to be true. If an answer feels new, we assume it to be false. The impression of familiarity is produced by System 1 and System 2 relies on this impression to make a decision.
+- **Frequently repeating a false statement is a good way to make it believable as people often misjudge familiarity for the truth.**
+  - Authoritarian institutiosn and marketers often use this to their advantage
+- If we use simpler words to convey a message, it appears to be more credible and intelligent. Using simple words reduces congnitive load and maximizes legibility.
+  - We can make a message more memorable and truthy by using verses
+- Avoid using complicated company names and it invokes system 2 and people want to avoid deliberate effort in remembering a difficult name
+- Cognitive strain mobilizes system 2, which is more likely to reject the intuitively suggested by system 1
+  - Students made less errors in puzzles printed in a small font in a washed-out gray print
+- Companies with pronounceable names do better than others for the first week after the stock is issued, though the effect disappeares over time
+- Congnitive ease is both a cause and a consequence of pleasant feeling
+- **Exposure effect** - familiarity breeds liking
+
+### Norms, surprises, and causes
+- System 1 maintains a model our personal world, with association of ideas and whats normal in it. 
+- We are surprised when we encounter something that doesnt fit into the context or in our model of things. System 1 can detect these with astonishing speed and subtlety.
+- Understanding events, consequences and causal connections in a story is function of system 1.
+- We are adept at finding both physical and intentional causality(bullies and victims, pursuer and something being chased)
