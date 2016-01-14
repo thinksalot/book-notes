@@ -5,13 +5,13 @@
 - System 2: Fast, more deliberate and effortful form of thinking (is there a lamp in the desk ?)
 - We believe we know what goes in our head but most of the thoughts, impressions arise in our conscious experience without we knowing how they got there
   - We cannot trace how we came to know thre is a lamp on the desk in front of us, or how we detected a hint of irritation in our spouse's voice
-- Aim to imporve ability to identify and understand error in judgements and choices; suggest invervention to limit the damage
+- Book aims to improve ability to identify and understand error in judgements and choices; suggest invervention to limit the damage
 - 'Steve the librarian' demonstration - people ignore base rates when making assumptions
-- We might think adultery is more common among politicians thatn among physicians or lawyers due to the aphrodisiac effect of power and the temptations of life away from home, but its actually because transgressions in politicians are more likely to be reported
+- We might think adultery is more common among politicians than among physicians or lawyers due to the aphrodisiac effect of power and the temptations of life away from home, but its actually because transgressions in politicians are more likely to be reported
 - Contrary to historical belief that people are generally rational(with sound thinking) and they depart of rationality due to influence of emotions, their work challenged both views by documenting systematic errors in the thinking of normal people and tracing these errors to cognitive errors rather than emotions. However, recently they have found that emotions has much larger in intuitive judgements and choices in the form of **affect heuristic**
 - **Availability Heuristics** - people tend to assess the relative importance of issues by the ease with which they are retrieved from memory, and this is largely determined by the extent of coverage in the media. Frequently mentioned topics populate the mind. In turn what the media choose to report corresponds to their view of what is currently on the public's mind. This is **the main reason why authoritarian regimes exert substantial pressure on independent media**
-- Use of demonstrations such as 'Steve the librarian' allows readers to test observer the possible flaws in their own thinking. This makes them more likely to question their dogmatic assumptions
-- Not all intuitive judgement under uncertainty are produced by the heuristics. The accurate intuitions of experts are better explained by the effects of prolonged practice than by heuristics. **Skills are heuristics are alternative sources of intuitive judgements and choices.**
+- Use of demonstrations such as 'Steve the librarian' allows readers to test & observer the possible flaws in their own thinking. This makes them more likely to question their dogmatic assumptions
+- Not all intuitive judgement under uncertainty are produced by the heuristics. The accurate intuitions of experts are better explained by the effects of prolonged practice than by heuristics. **Skills and heuristics are alternative sources of intuitive judgements and choices.**
   - Story of a firefighter with "sixth sense of danger"
 - Not all professionals' intuition arise from true expertise
   - Story of an investor that invest in Ford stocks after attending its automobile show rather than asking a economically relevant question like "Is Ford stock currently underpriced?" (**affect heuristic**)
@@ -37,22 +37,22 @@
   - Not only can we be blind to the obvious, we can be blind to our blindness
 - Most of what we think and do originates in our system 1, but system 2 takes over when things get difficult and it normally has the last word
 - System 1 has biases or systematic errors that it is prone to make in specified circumstances
-- System 1 cannot be turned off (we will read a word we are shown, not matter how much we try not to)
+- System 1 cannot be turned off (we will read a word we are shown, no matter how much we try not to)
 - One of the tasks of system 2 is to overcome the impulses of system 1 ie its in charge of self-control
 - Some illusions are visual(like the arrow figure in Muller-Lyer illusion) but others are cognitive illusions
-  - psychopathic charm - a psychotherapy patient with disturbing tale of multiple mistakes in his previous treatment who you think you can can understand and treat but most likely is a psychopath that you should throw our of the office 
+  - psychopathic charm - a psychotherapy patient with disturbing tale of multiple mistakes in his previous treatment who you think you can can understand and treat but most likely is a psychopath that you should throw out of the office 
   - You feel sympathetic for this patient but this feeling would not be under our control as it would arise from system 1
   - Strong attraction to a patient with a repeated history of failed treatment is a danger sign
-- Constantly question our own thinking is tedious and system 2 is much too slow to use as a substitute for system 1. Learn to recognize situations in which mistakes are likely and try harder to avoid them when staked are high
+- Constantly questioning our own thinking is tedious and system 2 is much too slow to be used as a substitute for system 1. Learn to recognize situations in which mistakes are likely and try harder to avoid them when staked are high
 - Easier to recognize other people's mistakes than our own
 
 ### Attention and effort
-- Pupil of the eye in as window to the soul (Eckhard Hess, article in Scientific American)
+- Pupil of the eye as a window to the soul (Eckhard Hess, article in Scientific American)
   - Our pupils widen when watching beautiful nature pictures
   - We find women with dilated pupils attractive (rather than constricted ones)
   - Belladona, a pupil dilating susbstance used as cosmetic
   - Bazaar shoppers wear dark glasses in order to hide their level of interest from merchants
-- Pupils are sensitive indicators of mental effort - they dilate substancially when people multiply two-digit numbers, and they dilate more if the problems are hard than if they are easy. This indicates that response to mental effort is distinct from emotional arousal
+- Pupils are sensitive indicators of mental effort - they dilate substantially when people multiply two-digit numbers, and they dilate more if the problems are hard than if they are easy. This indicates that response to mental effort is distinct from emotional arousal
 - During mental multiplication, the pupil normally dilated to a large size within a few seconds and stayed large as long as the individual kept working on the problem; it contracted immediately when she found a solution or gave up
 - When engaged in mental sprint, we may become effectively blind
 - Much like the electricity meter, pupils offer an index of the current rate at which mental energy is used. However, no matter how much effort you want to exert in a task, you cannot exert same effort in an Add-1 task as you would in an Add-3 task
@@ -65,14 +65,14 @@
 - System 2 can adopt **task sets** : it can program memory to obey an instruction that overrides habitual responses.
   - It will be effortful to set yourself up for an excercise and effortful to carry out, though you will surely improve with practice
 - Switching from one task to another is effortful, specially under time pressure.
-- Ability to control attention is not simply a measure of intelligence; measure of efficiency in the control of attention predict performance of air traffic controllers and of Israeli Air Force pilits beyond the effect of intelligence.
+- Ability to control attention is not simply a measure of intelligence; measure of efficiency in the control of attention predict performance of air traffic controllers and of Israeli Air Force pilots beyond the effect of intelligence.
 - **The most effortful forms of slow thinking are those that require you to think fast**
 - **We cover long distances by taking our time and conduct our mental lives by the law of least effort**
 
 ### The lazy controller
-- Some people can expecnd considerable effort for long periods of time without having to exert willpower.
-- This state of effortless attending is known as **flow** ( by psychologist Mihaly Csikszentmihalyi)
-  - "a state of effort-less concentration so deep that they lose their sense of time, of themselves, of their problems" and therit description of joy in that state are so compelling that he called it an "optimal experience"
+- Some people can expend considerable effort for long periods of time without having to exert willpower.
+- This state of effortless attending is known as **flow** (by psychologist Mihaly Csikszentmihalyi)
+  - "a state of effort-less concentration so deep that they lose their sense of time, of themselves, of their problems" and their description of joy in that state are so compelling that he called it an "optimal experience"
 - Several psychological studies has shown that people who are simultaneously challenged by a demanding cognitive task and by a temptation are more likely to yield to the temptation
 - People who are cognitively busy are also more likely to make selfish choices, use sexist language, and make superficial judgements in social situations
 - The self-control of morning people is impaired at night; the reverse if true of night people.
@@ -93,3 +93,28 @@
 - **System 1 is impulsive and intuitive; System 2 is capable of reasoning, and is cautious, but at least for some people it is also lazy**
 - People with higher IQs are also prone to biases. Rationality should be distinguished from intelligence
 - Bat-and-ball like questions are somewhat better indicators of intelligence that conventional measure of intelligence such as IQ tests
+
+### The associative machine
+- **Associative activation**: ideas that have been evoken trigger many other ideas, in a spreading cascade of activity in your brain
+- Banana-Vomit example: the word evokes memories, which evoke emotions, which in turn evoke facial expressions and other reactions
+- System treats the mere conjunction of two words as representation of reality. Your body reacted in an attenuated replica of a reaction to the real thing, and the emotional response and physical recoil were part of the interpretation of the event. **Congnition is embodied: you think with your body, not only with your brain**
+- The mechanisam that causes these mental events: **association of ideas**
+- An idea that has been activated does not merely evoke one other idea. It activates many ideas, which in turn activate others. Only a few of the activated ideas will register in consciousness; most of the work of associative thinking is silent, hidden from our conscious selves. We know far less about us than we feel.
+- **Priming effect**: if you have recently seen or heard the word EAT, you are temporarily more likely to complete the word fragment SO_P as SOUP than as SOAP
+  - If you are thinking about EAT, you will be quicker than usual to recognize the word SOUP when it is spoken in a whisper or presented in a blurry font
+- Activation spreads like ripples in a pond
+- **Priming is not restricted to concepts and words.** The **Florida effect**: the idea of old age results in changes in action. This priming phenomenon - the influencing of an action by the idea - is known as the **ideomotor effect**
+- **Priming is reciprocal**. If you are primed to think of old age, you would tend to act old, and acting old would reinforce the thought of old age
+- Reciprocal links are common in the associative network. **Being amused tends to make you smile, and smiling tends to make you amused**
+- Headphone-head nod experiment: **gestures can also unconsciously influence our thoughts and feelings**. There is a habitual connection between an attitude of rejection or acceptance and its common physical expression
+  - Nodding our head(yes gesture) produces emotions related to acceptance while shaking produces emotions for rejection
+  - "act calm and kind regardless of how you feel" looks like a good advice as you'll likely be rewarded by actually feeling calmn and kind
+- Voting location found to affect our voting decisions. Primed by location.
+- Money primed individuals become more independent, perceived twice as long to solve difficult problem when primed with money. Also became more selfish. Money-primed undergraduates also showed a greater preference for being alone
+- Living in a culture that surrounds us with reminders of money may shape our behavior and our attitudes in ways that we do not know about and of which we may not be proud
+- Reminding people of their mortality increased the appeal of authoritarian ideas, which may become reassuring in context of terror of death
+- Feeling that one's soul is stained appears to trigger a desire to cleanse one's body, aka **Lady Macbeth effect**
+- The effects of primes are robust but not necessarily large. For eg it can change uncertain people in an election but a few percent could tip an election
+- Priming phenomenon arises in system 1 and you have no conscious access to them
+- Honesty box experiment - on average, users contributes three times as much in eye weeks ask opposed to flower weeks
+- System 1 produces impressions that turn into your beliefs, and is the source of the impulses that often become your choices and your actions.
