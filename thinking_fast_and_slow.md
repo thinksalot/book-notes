@@ -1,0 +1,95 @@
+# Thinking, Fast and Slow - Daniel Kahneman
+
+### Introduction
+- System 1: Slow, intuitive thought, entirely automatic from peception and memory (what is the capital of russia ?)
+- System 2: Fast, more deliberate and effortful form of thinking (is there a lamp in the desk ?)
+- We believe we know what goes in our head but most of the thoughts, impressions arise in our conscious experience without we knowing how they got there
+  - We cannot trace how we came to know thre is a lamp on the desk in front of us, or how we detected a hint of irritation in our spouse's voice
+- Aim to imporve ability to identify and understand error in judgements and choices; suggest invervention to limit the damage
+- 'Steve the librarian' demonstration - people ignore base rates when making assumptions
+- We might think adultery is more common among politicians thatn among physicians or lawyers due to the aphrodisiac effect of power and the temptations of life away from home, but its actually because transgressions in politicians are more likely to be reported
+- Contrary to historical belief that people are generally rational(with sound thinking) and they depart of rationality due to influence of emotions, their work challenged both views by documenting systematic errors in the thinking of normal people and tracing these errors to cognitive errors rather than emotions. However, recently they have found that emotions has much larger in intuitive judgements and choices in the form of **affect heuristic**
+- **Availability Heuristics** - people tend to assess the relative importance of issues by the ease with which they are retrieved from memory, and this is largely determined by the extent of coverage in the media. Frequently mentioned topics populate the mind. In turn what the media choose to report corresponds to their view of what is currently on the public's mind. This is **the main reason why authoritarian regimes exert substantial pressure on independent media**
+- Use of demonstrations such as 'Steve the librarian' allows readers to test observer the possible flaws in their own thinking. This makes them more likely to question their dogmatic assumptions
+- Not all intuitive judgement under uncertainty are produced by the heuristics. The accurate intuitions of experts are better explained by the effects of prolonged practice than by heuristics. **Skills are heuristics are alternative sources of intuitive judgements and choices.**
+  - Story of a firefighter with "sixth sense of danger"
+- Not all professionals' intuition arise from true expertise
+  - Story of an investor that invest in Ford stocks after attending its automobile show rather than asking a economically relevant question like "Is Ford stock currently underpriced?" (**affect heuristic**)
+- When faced with a difficult question (like should i invest in For stock?), we often answer an easier one instead(do I like Ford cars?) without noticing substitution.
+- When search for an intuiting answer fails, we switch to system 2
+
+### The characters of the story
+- System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control
+- System 2 allocated attention to the effortful mental activities that demand it, including complex computations. Its operations are often associated with the subjective experience of agency, choice and concentration
+- System 1 has learned associations between ideas ( the capital of France ?); it also has learned skills such as reading and understanding nuances of social situations
+- System 1:
+  - Detect that one object is more distant from another
+  - Orient to the source of a sudden sound
+  - Detect hostility in a voice
+  - Answer to 2+2=?
+- System 2:
+  - Brace for the starter gun in a race
+  - Tell someone your phone number
+  - Brace attention for the starter gun in a race
+  - Count occurance of letter a in a page of text
+- Intense focusing on a task can make people effectively blind, even to stimuli that normally attract attention
+  - Experiment to count the number passes by white team, gorilla appears for few second
+  - Not only can we be blind to the obvious, we can be blind to our blindness
+- Most of what we think and do originates in our system 1, but system 2 takes over when things get difficult and it normally has the last word
+- System 1 has biases or systematic errors that it is prone to make in specified circumstances
+- System 1 cannot be turned off (we will read a word we are shown, not matter how much we try not to)
+- One of the tasks of system 2 is to overcome the impulses of system 1 ie its in charge of self-control
+- Some illusions are visual(like the arrow figure in Muller-Lyer illusion) but others are cognitive illusions
+  - psychopathic charm - a psychotherapy patient with disturbing tale of multiple mistakes in his previous treatment who you think you can can understand and treat but most likely is a psychopath that you should throw our of the office 
+  - You feel sympathetic for this patient but this feeling would not be under our control as it would arise from system 1
+  - Strong attraction to a patient with a repeated history of failed treatment is a danger sign
+- Constantly question our own thinking is tedious and system 2 is much too slow to use as a substitute for system 1. Learn to recognize situations in which mistakes are likely and try harder to avoid them when staked are high
+- Easier to recognize other people's mistakes than our own
+
+### Attention and effort
+- Pupil of the eye in as window to the soul (Eckhard Hess, article in Scientific American)
+  - Our pupils widen when watching beautiful nature pictures
+  - We find women with dilated pupils attractive (rather than constricted ones)
+  - Belladona, a pupil dilating susbstance used as cosmetic
+  - Bazaar shoppers wear dark glasses in order to hide their level of interest from merchants
+- Pupils are sensitive indicators of mental effort - they dilate substancially when people multiply two-digit numbers, and they dilate more if the problems are hard than if they are easy. This indicates that response to mental effort is distinct from emotional arousal
+- During mental multiplication, the pupil normally dilated to a large size within a few seconds and stayed large as long as the individual kept working on the problem; it contracted immediately when she found a solution or gave up
+- When engaged in mental sprint, we may become effectively blind
+- Much like the electricity meter, pupils offer an index of the current rate at which mental energy is used. However, no matter how much effort you want to exert in a task, you cannot exert same effort in an Add-1 task as you would in an Add-3 task
+- Response to mental overload - system 2 protects the most important activity so it receives the attention it need, spare capacity is allocated second by second to other tasks
+- Attention allocation has been honed by a long evolutionary history. Orienting and responding quickly to the gravest threats or most promising opportunities imporved the chance of survival.
+- **As you become skilled in a task, its demand for energy diminishes.**
+- **Law of least effort** applied to cognitive tasks as well. If there are several ways of achieving the same goal, people will eventually gravitate to the least demanding course of action. In the economy of action, effort is a cost, and the acquisition of skill is driven by the balance of benefits and costs. **Laziness is built deep into our nature.**
+- Research shows that inhibiting the tendency to read distracting words also induces moderate effort
+- System 2 is the only one that can follow rules, compare objects on several attributes, and make deliberate choices between options. System 1 detects simple relations ("they are all like")  and excels at integrating information about one thing, but it does not deal with multiple distinct topics at once, nor can it handle purely statistical information
+- System 2 can adopt **task sets** : it can program memory to obey an instruction that overrides habitual responses.
+  - It will be effortful to set yourself up for an excercise and effortful to carry out, though you will surely improve with practice
+- Switching from one task to another is effortful, specially under time pressure.
+- Ability to control attention is not simply a measure of intelligence; measure of efficiency in the control of attention predict performance of air traffic controllers and of Israeli Air Force pilits beyond the effect of intelligence.
+- **The most effortful forms of slow thinking are those that require you to think fast**
+- **We cover long distances by taking our time and conduct our mental lives by the law of least effort**
+
+### The lazy controller
+- Some people can expecnd considerable effort for long periods of time without having to exert willpower.
+- This state of effortless attending is known as **flow** ( by psychologist Mihaly Csikszentmihalyi)
+  - "a state of effort-less concentration so deep that they lose their sense of time, of themselves, of their problems" and therit description of joy in that state are so compelling that he called it an "optimal experience"
+- Several psychological studies has shown that people who are simultaneously challenged by a demanding cognitive task and by a temptation are more likely to yield to the temptation
+- People who are cognitively busy are also more likely to make selfish choices, use sexist language, and make superficial judgements in social situations
+- The self-control of morning people is impaired at night; the reverse if true of night people.
+- Too much concern about how well one is doing in a task sometimes disrupts performance by loading short-term memory with pointless anxious thoughts
+- Self-control requires attention and effort. Controlling thoughts and behaviors is one of the tasks of system 2
+- All variants of voluntary effort- cognitive, emotional or physical - draw at least partly on a shared pool of mental energy - **ego-depletion** (experiment by Roy Baumeister)
+- Unlike cognitive load, ego depletion is at least in part a loss of motivation. Increasing option is not an option when you must keep six digits in short-term memory while performing a task but we could do a task when given strong motivation (even if we dont feel like doing it)
+- Experiments show that the effects of ego depletion could be undone by ingesting glucose
+  - Parole judge in Israel experiment
+- Bat-ball puzzle: The distinctive mark of an easy puzzle it that it evokes an answer that is intuitive, appealing, and wrong.
+- Many people are overconfident, prone to place too much faith in their intuition
+- Roses-flower problem: When people believe a conclusion is true, they are also very likely to believe arguments that appear to support it, even when these arguments are unsound.
+- Memory function is an attribute of system 1
+- Children-Oreo experiment - Resisters had higher measures of executive control in cognitive tasks, and especially the ability to reallocate their attention effectively. As young adults, they were less likely to take drugs. Children wo had shown more self-control has substantially hight scors on tests of intelligence
+- Experiments showed that improving the control of attention improved intelligence
+- Close connection between the children's ability to control their attention and their ability to control their emotions
+- Another experiment showed that individuals that are prone to follow their intuitions and unwilling to invest effort needed to check their intuitions were impulsive, impatient, and keen to receive immediate gratification
+- **System 1 is impulsive and intuitive; System 2 is capable of reasoning, and is cautious, but at least for some people it is also lazy**
+- People with higher IQs are also prone to biases. Rationality should be distinguished from intelligence
+- Bat-and-ball like questions are somewhat better indicators of intelligence that conventional measure of intelligence such as IQ tests
