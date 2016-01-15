@@ -1,7 +1,7 @@
 # Awaken The Giant Within - Tony Robbins
 
 ### Dreams of Destiny
-- All of our past problems and frustations create foundation for the understanding we need create a new beginning
+- All of our past problems and frustations create foundation for the understanding we need to create a new beginning
 - We have this immeasurable capacity to focus all our resources on the mastery of one single task. When we focus consistently on achieving one task, we begin to develop unique understanding on how to excel in it.
 - The resources we need to turn our dreams into reality are within us, merely waiting for us to activate them.
 - **Stats show that less than 10% people that buy a book read it beyond the first chapter.**
