@@ -18,3 +18,34 @@
 - Repitition is the mother of skill
 - By changing one word in our vocab, we can alter our emotional state
 - By changing the questions we can consciously or unconsciously ask ourselves, we could change our focus and actions we take in daily life
+
+### Decisions: The Pathway to Power
+- Decision has come to be loosely defined as a wish list or a preference. Making a true decision is totally committing yourself to achieving a result and then cutting yourself of all other possibility. An alcoholic cannot attain sobriety if he fools himself into thinking that one last drink wont really matter.
+- **Develop consistent actions** in order to shape our lives. Its what we do consistently that matters, not what we do once in a while
+- Our decision to take action determines our destiny, not our environment and circumstances.
+- We should **stop making excuses our Belief Systems**.
+- Merely being interested to become a better person and achieve higher goals isnt enough. Be **committed** to live life at a higher level.
+- Gandhi's indomitable decision to get rid of the British set into motion a chain of events that forever changed the balance of world power. He simply decided there was no other way. His decision sparked the process to making an impossible a possibility.
+- Rosa Parks's decision to hold herself to a higher standard marked the beginning of the civil rights movement
+- The story of Ed Roberts, a quadraplegic, is a powerful evidence that its not where you start out but the decision you make about where you're determined to end up that matter.
+- When you truly decide that you'll do something, you will find a way. The "how" will eventually reveal itself
+- The secret to making decisions is to simply make more of them. Strengthen the flabby decision making muscles.
+- Information is power when acted upon. Decision stem from actionable information. We understand something better when we begin to use it. Profound knowledge is something that can be immediately put into action.
+- Determine **what to focus on**, **what things mean to you** and **what to do**
+  - Ed Roberts chose to focus on how he could make a difference (rather than his problems or disability). His physical difficulties meant a "challenge" to him and he decided to make quality of lives of all people like him better
+- Study people enjoying greater success in your area. Learn what they are doing different.
+- Stop suffering from "The Niagara Syndrome" when making decision. Stop jumping into rive before deciding where you want to end up. You'll only end up in being caught in the current: current events, current fears, current challenges. Before you realize it, you are 10 feet from the Niagara Falls and its too late to do anything. Decide to plan ahead. Long-term focus with persistence is a must for success.
+- Develop your own system for making decisions. Most people dont make a conscious decisions. They are affected by the influence of peers, parents, teachers, tv, ads etc. Dont allow programming of the past to control the present and the future.
+- **Success is the result of good judgement. Good judgement is the result of experience, and experience is often the result of bad judgement.** Whe people success, they party; when they fail they tend to ponder and make new distinctions, to learn form it.
+- Almost all successful people have made more poor mistakes that any of us.
+- Mastery takes as long as you want it to take. The answer the question "How long would it take for me to master a particular skill ?" is often "How long do you want it to take ?". If you practice 10 times a day, you'll learn quicker than compared to just 2 times a day.
+- Its invaluable to have a good role model. They can provide you with maps to navigate the rapids before so that you dont end up over the falls. Try to find role models in career, finances, relationships, health; a model for all aspects of your life.
+- **There are no failures in life**. The only failure is not learning from your mistakes.
+- Make a decision, take massive action, if its not working keep changing your approach until you get it right.
+- Story of Soichioro Honda, founder of Honda Corp.
+- Story of Billy Joel on how he converted impossible in the short term into a phenomenal example to success and happiness in the long term.
+- Some people see winter as a cold, depressing and hibernating period. Others go bobsledding and skiing! While you are waiting for the future, make the most out of the present.
+- Think in terms of seasons. Present in terms of planting and harvesting. Future in terms of reaping rewards of the harvest.
+- **Action flows from true decision.** If you havent acted yet, you havent made a decision.
+- Studies show that most successful people make decisions rapidly because they are clear in their values and what they really want for their lives( long term focus). They are also slow to change their decisions, if at all (delay instantaneous gratifications). On the other hand, people who fail usually make decisions slowly and change their minds quickly, always bouncing back and forth. Just decide!
+- Stay committed to your decisions but stay flexible to your approaches. Look out for alternatives!
