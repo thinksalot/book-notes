@@ -121,7 +121,7 @@
 
 ### Cognitive ease
 - At any point, multiple computations are going on in our brain. One such computation is determining cognitive ease.
-- Cognitive ease means things are going well-no threats, no major news, no need to redirect attention or mobilize effor.
+- Cognitive ease means things are going well-no threats, no major news, no need to redirect attention or mobilize effort.
 - Cognitive strain means there are problems and require increased mobilization of system 2
 - When are in state of cognitive ease, we are probably in good mood, like what we see, believe what we hear, trust our intuitions and feel that the current situation is comfortably similar. We are also relatively casual and superficial in our thinking.
 - A happy mood loosens the control of system 2
@@ -144,3 +144,24 @@
 - We are surprised when we encounter something that doesnt fit into the context or in our model of things. System 1 can detect these with astonishing speed and subtlety.
 - Understanding events, consequences and causal connections in a story is function of system 1.
 - We are adept at finding both physical and intentional causality(bullies and victims, pursuer and something being chased)
+
+### A machine for jumping to conclusions
+- System 1 is responsible for jumping to conclusions. It bets on an answer based on your recent experience and context. In absense on recent experience, more distant memories govern our choices.
+  - 'Bank' can mean a river bank or a money bank based on context.
+  - We can read 'ABC' and '12 13 14' and also 'A13C' and '12 B 14' thanks to system 1. It jumps to conclusions and resolves ambiguity even thought we dont become aware of the ambiguity that was resolved
+- System 1 comes with one interpretation when jumping to conclusions. Neither does it keeps track to what alternatives it rejects, nor does it compares them. Comparison between incompatible interpretations require deliberate effort(system 2)
+- System 1 is gullible and biased to believe. When confronted with an statement, its automatic response is to believe it by coming up with automatic interpretation of the situation. Unbelieving is the work of system 1. **People are more likely to believe persuasive messages and commercials when they are tired and depleted.**
+- This operation of associative memory leads to confirmation bias. When confronted with a statement, our initial response it to search for confirming evidence(positive test strategy), instead of coming up with facts that refute it (negative test strategy)
+- **Halo effect** - The tendency to like(or dislike) everything about a person including things you havent observed. If you have a feeling of liking a person, you are predisposed to thinking that he/she is also generous or intelligent. If you like the policy of a politician, you also like his voice or appearance. When you like a person, the gap is filled by a guess that fits your emotional response to that person.
+  - The sequence to information matters, sometimes to the point that subsequent information has no effect at all.
+  - Halo effect is also an example of supressed ambiguity, just like the word 'bank', the word 'stubborn' is translated with regards to your emotions for that person
+  - Example of Kahneman checking student essays
+  - Tame Halo effect by **decorrelating errors**. When deriving information from multiple sources, get information from they individually so that they arent influenced by a each other's biases. 'The Wisdom of Crowds' (book)
+  - Decorrelating errors is highly useful while conducting meeting.
+- **What You See Is All There Is (WYSIATI)** - System 1 excels at constructing a story with the information currently available.
+- Jumping to conclusions based on limited information is vital part of System 1. It is radically insensitive to the quality and quantity of the information. When confronted with incomplete information, all it cares about is the ease and coherence with which it forms a story. The incompleteness of the information doesnt matter.
+  - People with partial (and incomplete) information are more confident of their judgements, leading to **confidence bias**.
+  - **Framing effect** - Different ways of presenting the same information often evokes different emotions
+    - "the odds of survival after one month of surgery is 90%" vs "mortality within one month of surgery is 10%"
+    - "90% fat-free" vs "10% fat"
+  - **Base-rate neglect** - Steve, the meek and tidy soul
