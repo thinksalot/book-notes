@@ -49,3 +49,15 @@
 - **Action flows from true decision.** If you havent acted yet, you havent made a decision.
 - Studies show that most successful people make decisions rapidly because they are clear in their values and what they really want for their lives( long term focus). They are also slow to change their decisions, if at all (delay instantaneous gratifications). On the other hand, people who fail usually make decisions slowly and change their minds quickly, always bouncing back and forth. Just decide!
 - Stay committed to your decisions but stay flexible to your approaches. Look out for alternatives!
+
+### The force that shapes your life
+- Everything we do, we do either out of our need to avoid pain or our desire to gain pleasure. Our behaviour is not driven by reason or intellectual calculations, but our instinctive reaction to pain and pleasure.
+- "A man who suffers before it is necessary, suffers more than is necessary" - Seneca
+- Most people experience pain but are unwilling to change because they havent reached their **emotional threshold** ie the level of pain they arent willing to settle for
+- We frequently create false associations in our nervous system (neuro-associations) as to what will create pain or pleasure. If we can reprogram this, new can harness the enormous power of pain and pleasure. But if we fail to program ourselves, we are not better than animals or machines, shaped by external influences like the media and ads, like a public computer programmed by amateur programmers.
+  - Pepsi used Michael Jackson to get us in peak emotional state and flashed their product. Continuous repetitions of this created an emotional linkage for millions of Jaskson's fans. He was like an "state inducer"
+  - California Raisin Advisory Board used adverts to revive their declining sales by linking raisins to excitement and fun rather than boredom
+- "If you are distressed by anything external, the pain is not due to the thing itself but to your own estimate of it; and this you have the power to revoke at any moment" - Marcus Aurelius
+  - Its how we interpret these events that determines how we think about ourselves and how we will act in the future
+- Most of us make our decisions involving pain or pleasure in the short-term instead of the long term. Anything valuable that we want requires us to break through some short-term pain in order to gain long-term pleasure.
+- Most people think that changing will lead to unknown which will be more painful than they are already experiencing, like the proverbs "Better the devil you know that the devil you dont know" and "A bird in the hand is worth two in the bush". But most of the time, the fear that we are allowing to control us never come to reality anyway.
