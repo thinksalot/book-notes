@@ -54,10 +54,60 @@
 - Everything we do, we do either out of our need to avoid pain or our desire to gain pleasure. Our behaviour is not driven by reason or intellectual calculations, but our instinctive reaction to pain and pleasure.
 - "A man who suffers before it is necessary, suffers more than is necessary" - Seneca
 - Most people experience pain but are unwilling to change because they havent reached their **emotional threshold** ie the level of pain they arent willing to settle for
-- We frequently create false associations in our nervous system (neuro-associations) as to what will create pain or pleasure. If we can reprogram this, new can harness the enormous power of pain and pleasure. But if we fail to program ourselves, we are not better than animals or machines, shaped by external influences like the media and ads, like a public computer programmed by amateur programmers.
+- We frequently create false associations in our nervous system (neuro-associations) as to what will create pain or pleasure. If we can reprogram this, we can harness the enormous power of pain and pleasure. But if we fail to program ourselves, we are not better than animals or machines, shaped by external influences like the media and ads, like a public computer programmed by amateur programmers.
   - Pepsi used Michael Jackson to get us in peak emotional state and flashed their product. Continuous repetitions of this created an emotional linkage for millions of Jaskson's fans. He was like an "state inducer"
   - California Raisin Advisory Board used adverts to revive their declining sales by linking raisins to excitement and fun rather than boredom
 - "If you are distressed by anything external, the pain is not due to the thing itself but to your own estimate of it; and this you have the power to revoke at any moment" - Marcus Aurelius
   - Its how we interpret these events that determines how we think about ourselves and how we will act in the future
 - Most of us make our decisions involving pain or pleasure in the short-term instead of the long term. Anything valuable that we want requires us to break through some short-term pain in order to gain long-term pleasure.
 - Most people think that changing will lead to unknown which will be more painful than they are already experiencing, like the proverbs "Better the devil you know that the devil you dont know" and "A bird in the hand is worth two in the bush". But most of the time, the fear that we are allowing to control us never come to reality anyway.
+
+### Belief systems: The power to create and the power to destroy
+- Its not the environment, but how interpret events that shapes us who we are today and who we'll become tomorrow.
+  - Two sons born 11 months apart from an alcoholic apart who murders a liquor store cashier have entirely different personalities. One becomes a drug addict but other an upright citizen that raises 3 kids with a successful marriage and good carrier.
+  - Two pilots are shot down and taken prisoner in Vietnam. One commits suicide due to torture but other pulls through the beatings with a deeper belief in himself.
+  - Instead of thinking that they have a different strategy to learning, some people think they are "learning disabled"
+  - Viktor Frankl endured the Holocaust and was able to endure and transform the "hell on earth" experience by finding an empowering meaning for pain
+- Beliefs are our generalization for what leads to pain and what leads to pleasure. They sometimes become our limiting beliefs.
+- Beliefs not only impact emotions or actions, but they can also lead to some minor physical transformations.
+  - Research by Dr. Bernie Siegel on Multiple personality disorder patients shows that eye color changes and physical marks disappear and reappear, even diseases like diabetes and high blood pressure come and go depending upon the persons personality and belief
+  - When news of food poisoning broke out, even people who hadnt been poisoned became ill or fainted. When they found out they werent poisoned, they again miraculously recovered.
+- Belief cultivates an idea of certainty which allows us to do things we might have otherwise not been able to accomplish.
+- Belief gives legs for our ideas to stand upon. The stronger the legs, deeper is our sense of certainty. Weaker legs make the tables wobbly.
+- The more references we have about our idea, the more intensely we have a belief on them. Reference can come from things we've experiences, information we get or even from our imagination.
+- We can even use our imagined references to propel us to succeed in the direction we want. Our brain cannot tell the difference between something vividly imagined and something we've actually experienced. **With enough emotional intensity and repetition, our nervous systems experience something as real, even if it hasnt occured yet.**
+  - Bill Gates used his belief to delivery software to IBM in a few weeks
+  - When Roger Bannister in 1954 ran the four-minute mile, more people could do it because he gave them the belief
+  - Because people havent succeeded in the past, they think they will not succeed in the future. So they focus on being "realistic" which really means living in fear of pain and disappointment again
+  - Great leaders are rarely "realistic". Gandhi taking on the British, Walt Disney building the park (first of its kind at the time)
+- **If we are going to make errors in life, err on the side of overestimating your capabilities**
+  - Optimists are more hopeful of their chances whereas pessimists are more "realistic"
+- **Learned helplessness** - because of past mistakes and failures, people start believing that things are pointless, they're helpless or worthless and no matter what they do, they'll lose anyways
+  - 3 patterns of belief that creates learned helplessness (by Dr.Martin Seligman)
+    - Permanence - People see even their smallest problems as permament. Achiveres on the otherhad think that if they keep on persisting, they will find a way. "This, too, shall pass"
+    - Pervasiveness - Pessimists believe that because they screwed up in one area, they are a screw up! An achiever never sees a problem as one that controls his/her life.
+    - Personal - People see failure as a personality defect which leads to an overwhelming feeling because we cannot change our life or personality overnight. But if you see failure as a challenge to modify our approach, you can be inspired by it.
+- Holding limiting beliefs is equivalent to systematically ingesting minute doses of arsenic that, over time, builds up a fatal dose
+- The most effective way to change our beliefs is to associate massive pain to old beliefs and associate tremendous pleasure to a new, empowering belief.
+- Create doubts about beliefs you want to avoid with a new experience, information or counter example to your existing belief. If you question it enough, you'll eventually be able to doubt any belief.
+  - Story about how QWERTY keyboard came to be popular despite it being inefficient.
+- Three categories of beliefs:
+  - Opinions: we feel certain about it, but the certainty is only temporary because it can be changed easily. Opinions can be easily swayed as the legs of reference are weak.
+  - Beliefs: based on a much stronger emotions, stronger reference legs. We have an absolute sense of certainty
+  - Convictions: An idea with strong emotional intensity such that the idea is not even questioned. Action flows from conviction. People are even willing to rish rejection or make fool of themselves for the sake of it. "Beliefs are possessions, and convictions are simply more values convictions" - Dr. Robert P. Abelson
+- How do we create a conviction ?
+  - Start with a basic belieft
+  - Reinforce your belief by adding new and more powerful references
+  - Find trigger event
+  - Take action
+- **Social proof** - Sometimes convictions are based on other peoples's enthusiasm for your beliefs. People believe something because eveyone else believes it. But social proof isnt always accurate. Dont limit yourself based on other people's beliefts. Question all beliefs!
+- Most powerful way to change beliefs is using pain
+  - Story of woman who renounces KKK
+- Story about how Japan's repuation for quality manufacturing came out to be (Dr. Deming)
+  - The idea that quality was a continuous, never ending process
+  - Quality costs less
+  - Managing business by numbers often hurts the business in the long run
+- In order to be happy and improve our quality of life, we need to be constantly growing and improving
+  - **kaizen** (japanese) - constant improvement - tiny refinements made daily begin to create compounded enhancements
+- CANI - Constant And Never-ending Improvements
+  - every minute, continuous improvement over a long term sculpts a masterpiece of colossal proportions
