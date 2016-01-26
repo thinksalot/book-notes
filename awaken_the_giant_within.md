@@ -111,3 +111,53 @@
   - **kaizen** (japanese) - constant improvement - tiny refinements made daily begin to create compounded enhancements
 - CANI - Constant And Never-ending Improvements
   - every minute, continuous improvement over a long term sculpts a masterpiece of colossal proportions
+
+### Can change happen at an instant?
+- Willpower itself isnt enough change. We need an effective strategy to create lasting change.
+- We cannot change quickly because of our cultural beliefs and conditionining. We link negative associations to change. For most, instant change means there werent problems at all.
+  - For eg. in most of the cultures, we are expected to grieve for a certain time after passing of a loved one. We go through with the pain of grieving because if we dont, we assume people will think that we dont care at all. Whereas on some other cultures, death is viewed as a celebration and people celebrate. If you grief, they think you didnt understand life at all, that you are selfish.
+  - It all depends upon out belief which indicates how much time it takes to recover from pain.
+- If we want to create lasting change, we must take personal responsibility for change. This creates a sense of pain when you dont follow through the new behavior.
+- Once we effect a change, we should reinforce it immediately. Then we should condition (link with good emotions) our nervous system to do that behavior consistently.
+- "Things dont change; we change" - Henry David Thoreau
+- We want change either because we want to change how we feel about things or our behaviors
+- First, we must believe that we can change now. If you can create a problem in a moment, you should be able to create a solution too!
+  - The psychiatrist joke
+- Second, we must believe that we're responsible for our own change. We must believe something **must** change, not should change. We must see ourselves as the source of change. We must believe we **can** change, its possible to change.
+- **Most of the time, we try to think our way to change. But change is deep rooted in our behavior and the emotions we associated to it (neuro-associations)**
+- When we do something for the first time, we create a physical connection, a neural strand that allows us to re-access that emotion or behavior. Each time we repeat the behavior, the connection strengthens. The more we indulge in a pattern, the stronger it becomes. The converse is also true, the neural connection will weaken and atrophy.
+  - Experiment at Uni. of California
+- Courage, unused, diminishes. Commitment, unexcercised, wanes. Love, unshared, dissipates.
+- Whenever we feel something, the brain notices what around us are **unique** and what happens **simultaneously**. If it happens **consistently**, a neuro-association is made. But since this criteria is imprecise, it easy to fall prey to false neuro-associations. We often blame the wrong causefor the way we feel, and thereby close ourselves from possible solutions.
+- Mixed neuro-associations: we have both good and bad feelings about a behavior. When you give your brain mixed messages, we get mixed results(confusion).
+  - For eg: sometimes we find ourselves starting to accomplish something, and then destroying it
+
+### How to change anything in your life
+- "The beginning of a habit is like an invisible thread but every time we repeat the act we strengthen the strand, add to it another filament, until it becomes a great cable and binds ur irrevocably, thought and act." - Orison Swett Marden
+- First we must decide what to change. This will give us more clarity
+- Second, we get leverage(motivate) for the change. People dont change until they hit a pain threshold.
+  - Even though some people are depressed and unhappy, they dont change becuase the fear of the changing, the unknown is a greater motivating force
+  - Nietzsche said that he who has a strong enough why can bear almost any how.
+  - 20% of the change is knowing the how; 80% is knowing the why
+  - The greatest leverage comes from inside not outside.
+  - If we want someone to change, we dont get this leverage by making them wrong or pointing out that they're inconsistent, but rather by asking them questions that cause them to realize for themselves their inconsistencies. This build an internal pressure. Complacency breeds stagnation, the human animal responds to pressure.
+  - Create a condition so that not changing is extremely painful.
+  - **Ask yourself "What will it cost me, if I dont change?" , "How will it affect my loved ones?"**
+  - Ask questions that induce pleasure to the idea of changing
+- Third, interrupt the limiting pattern
+  - You cannot get a new result if you continue acting the same way
+  - Like a fly that smacks itself in the window again and again, in search of a way out
+  - Example of man with chocolate addiction
+  - One of the best ways to interrupt a pattern is to do unexpected things. Utter 'Hallelujah' next time you feel depressed. Doing a stupid, silly move will not only alter your mood, but also for all of those around you.
+  - Interrupt must be done right after a pattern you are trying to avoid.
+  - We need to scramble it beyond recognition.
+- Fourth, empower the alternative action
+  - The benefits of old pattern should be replaced by the benefit of the new pattern.
+- Reinforce your new pattern until its consistent.
+  - Example of Boston Celtics great Larry Bird shooting a soft-drink commercial
+  - If you feel depressed yourself, reward yourself by saying "great" everytime someone else asks you how you are feeling. By doing so, you'll already start to feel good by doing so.
+  - Reinforce a pattern right after the behavior.
+  - Example of daughter's boyfriend calling everyday.
+  - Link pleasure to any behavior you want to repeat.
+  - The most effective strategy for motivating employees is through personal development. By helping them grow and expand, they start feeling passionate about their lives, jobs and people. It makes them want to contribute more. Monetary incentives doesnt always work as intended because they begin to work strictly for financial reward.
+  - Eventually the reward may no longer be effective, in such cases resort to variable schedule of reinforcements. Example is Dolphin training.
