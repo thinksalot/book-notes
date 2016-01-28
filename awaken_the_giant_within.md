@@ -161,3 +161,43 @@
   - Link pleasure to any behavior you want to repeat.
   - The most effective strategy for motivating employees is through personal development. By helping them grow and expand, they start feeling passionate about their lives, jobs and people. It makes them want to contribute more. Monetary incentives doesnt always work as intended because they begin to work strictly for financial reward.
   - Eventually the reward may no longer be effective, in such cases resort to variable schedule of reinforcements. Example is Dolphin training.
+
+### How to get what you really want
+- Many people believe that success makes them happy but whey success finally arrived, they never found the source of their happiness.
+  - Example of Elvis Presley's drug abuse
+- The difference between acting badly and brilliantly is not based on your ability, but on the state of your mind and/or body in any given moment. We cannot attain excellence if we continually submerge ourselves in negative thoughts.
+  - You need to be plugged in the right channel to feel a certain way (just like a tv).
+  - There are unlimited sensations, unlimited channels, unlimited ways of looking at things  available at the same time. All we need to do is tune in to the right sensations, channels.
+- **Emotion is created by motion**. Every emotion has specific physiology linked to it: posture, breathing, patterns of movement, facial expressions.
+  - If we repeatedly use our body in weak ways, if we drop our shoulders in a regular basis, if we walk around being tired, we will feel tired
+  - Put a smile in your face and you'll really feel elevated.
+- Do unexpected things to make yourself happy, triggering unexpected neural pathways to pleasure. Not only will you entertain yourself, but you'll also entertain other people walking about, you'll change their states to !
+- In a poll, 87 people reported they went to movies to feel happy, 7 percent to cry and 3 percent to scream. Everybody loves laughter and its contagious.
+- The real key in life is to be able to make yourself feel good when you dont feel good. Know how you can do this immediately by chaning your body patterns.
+  - Story of writer's block by John Denver. He needed to experience the thrill of speed feel creative again.
+- Create patterns of movement that create confidence, a sense of strength, flexibility, send of personal power and fun.
+  - When children see a puddle of water in sidewalk, they are going to jump in, splash around, laught and have a good time. When older people see the same, they will walk around it and complain the whole time !
+  - Live with the spring in your step, smile on your face.
+- People get depressed by playing out bad memories in their head again and again.
+- Our emotions in a particular moment depends upon our focus that that point. If we focus on the bad things, we'll only feel bad.
+  - Just like a camera that focuses on a particular thing and can easily distort reality, presenting just a small portion of the big picture.
+  - "Each of us sees in others what we carry in our own hearts." -Ralph Waldo Emerson (meaning all of us are biased)
+  - turmoil over "unauthorized" biographies - its only one person's perception of another's life, and often, this view is altered by feeling of jealousy or some vested interest.
+- **Focus on where you want to go not what you fear**
+  - Example of learning race driving in a "skid car" - if you start to skid out of control, the tendency is to look at the wall. But if you keep focusing on it, thats exactly where you'll end up. If you resits your fear and focus on where you want to go, your actions will take you in the direction.
+  - Remember - when you change your focus, you dont always immediately change your direction. It might take some "lag time" before you start moving towards your direction. This is all the more reason to start focusing towards our problems quicker.
+- A mind out of control will play tricks on you, Directed, its your greates friend.
+- "Ask and you will receive. Seek and you will find; knock and it will be opened to you" - Matthew 7:7
+- The most powerful way to control focus is with the use of questions. Always ask yourself "why ?"
+  - Story of Bo Jackson being bullied on school and how we almost came close to shooting his bully.
+- Out of our five senses, each of us have a favorite mode of focus, or a modality. Some are more impacted by visual systems, some by sounds whereas others by feelings.
+  - If our favorite channel is visual then focusing on the visual image of a situation gives us more emotional intensity. If its sound, focusing on the kinesthetic channels works best.
+  - The specific elements of these five senses can be change so as to increase or decrease the intensity of our experience. These foundational ingredients are called submodalities.
+  - By changing the size, distance, color, brightness, intestiy, distance etc in submodalities, we can change how we feel
+  - By discovering which submodalities trigger you, you'll know how to increase your positive emotions and decreate negative emotions.
+- **The key to life is to find many ways to direct your life so that is becomes an art**. The challenge for many people is they only have handful of ways to change their state: they overeat, overdrink, oversleep, overshop, smoke or take drugs. 
+  - Learn to change your focus, order of things to focus on, change your submodalities.
+  - If you are going do something, its no use going in a fearful or worried state. Go in a determined state.
+- "Experience is not what happend to a man; it is what a man does with what happens to him" - Aldous Huxley
+- All our emotions are nothing but biochemical storms in your brains.
+- Build a huge list of ways to change your state to feel good. Plan for pleasure on each and every day. Dont just wish for it to show up randomly, make room for it!
