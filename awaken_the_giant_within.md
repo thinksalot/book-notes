@@ -201,3 +201,93 @@
 - "Experience is not what happend to a man; it is what a man does with what happens to him" - Aldous Huxley
 - All our emotions are nothing but biochemical storms in your brains.
 - Build a huge list of ways to change your state to feel good. Plan for pleasure on each and every day. Dont just wish for it to show up randomly, make room for it!
+
+### Questions are the answers
+- "He who asks questions cannot avoid the answers" - Cameroon Proverb
+- When you persistently ask questions expecting answers, youw brain comes up with a solution
+  - Example of how a Jewish prisoner escaped the Nazis by asking continuosly asking himself how he can escape from prison
+- Its not the events and how you feel, but how you evaluate and interpret the events that shapes your life. Show you interpret and evaluate depends upon what questions you ask.
+- Questions are the primary way we learn virtuall anything. In fact the entire Socratic way of teaching is based on teacher doing nothing but asking questions, directing the students' focus, and getting them to come up with their own answers.
+- Successful people ask better questions and as a result they get better answers
+- Always ask yourself: "Why ?" , "Why not ?"
+- We need to understand how to ask the right questions so that we can utilize the tremendous capacity of our brains. Ask terrible questions and you shall receive terrible answers.
+- Asking the wrong questions like "Why do i fail ?", "Why me ?" always produces the wrong questions because now your comes up with answers about whay you cannot succeed. Instead ask yourself "How can I use this?"
+- Whatever you focus on and ask questions about your brain will find references to back that up. So instead of asking negative questions, ask questions about positive things you want to focus on.
+- Its not just the questions you ask but also the questions you fail to ask that shape your destiny.
+  - For eg Donal Trump made his fortune in the 70s when everybody was reluctant to take risks by asking himself "How can I get rich while everyone else is afrain ?". But eventually he began to feel invincible and stopped asking "downside" questions like "What is the wrost case scenario and can I handle it ?" that led him into trouble.
+- **Superior evaluations create superior life**
+- **Learning to ask empowering questions in the moment of crisis is a critical skill**
+- **Questions change what we delete** - Our brain can only consciously focus on small number of things simultaneously. If we you're feeling sad, there is only one reason: its because you're deleting all reasons to be feeling good. And if you're feeling good, its because you're deleting all the bad things you could be focusing on.
+  - Questions are the laser of human consciousness. They concentrate our focus and determine what we feel and do.
+- **Presupposition** - When you ask yourself a question, your brain already assumes it to be true and tries to come up with references in support of it.
+- Every faces challenges in life. So the question is not whether you face difficulties or not, but what type of questions you ask in face of such difficulties.
+- By consciously asking the right questions, we start creating pathways to happiness, success, excitement, joy etc.
+- When in a situation, always ask yourself:
+  - Whats great abou this ?
+  - How can i use this ?
+
+## The vocabulary of ultimate success
+- The right word can be a powerful agent.
+  - Eg of how Winston Churchill had this unique ability to send the english word language into battle. His famous call to all Britons to make WWII their "finest hour" resulted in courage beyond compare.
+  - Eg of how the racial movement was shaped by words of Martin Luther King Jr.
+- We must learn to use our words wisely to make use of the power they command. The words we habitually choose affects how we communicate with ourself and what we experience.
+- We can instantly change any emotional experience simply by choosing new words to describe to ourselves what we're feeling.
+  - Eg. if we use 'pretty good' to describe a fantastic experience instead of something like 'amazing' we limit the experience we get by it
+- English language is filled with words that convey distinct emotional intensity. If we use negative words to describe things, we amplify negative emotinal intensity.
+  - Eg. there a difference between saying you 'hate' something vs you 'prefer' something
+  - impeccable vs welldone
+  - integrity vs honesty
+  - pursuit of excellence vs trying to make things better
+  - bit challenging vs devastating
+  - arguments vs spirited debates
+- Putting a new label on your pattern by using a different, more positive word is sometime enough to break your emotional pattern.
+- We describe sensation or emotions using words. These are labels for sensations. Sometimes using a word is enough to bring back these sensations.
+- If three people are subjected to the same experience, some feels rage, another feels anger and third feels annoyance. The sensations are being changed by each persons translations. Using inappropriate words greater greater pain than is warranted or appropriate.
+  - Eg of how commiunism evoked negative emotions even thought most of the participants could describe what communism is.
+- Emotions are nothing but biochemical floods in our brain and words indeed create biochemical these effects.
+- English language has ~1000 words that describe positive emotions where ~2000 words that create negative emotions (twice as many). No wonder people feel more bad than they feel good.
+  - Shakespeare alone use 24000 words in this writings outof which 5000 he used only once. Most of the words we use today were coined by him.
+- We are shaped by our language. English language is verb oriented because its a culture which prides itself by taking action. These words how we think and how we evaluate. By contrast, Chinese language places a high value on things that doesnt change as its dialects consists mostly of nouns rather than verbs. From their perspective, nouns represent things that will last, while verbs (as actions) will be here today and gone today.
+- By adopting someone else's habitual vocabulary, you can adopt their emotional patterns as well. This way we often become like the people we spend time with as we adopt their emotional pattern
+- Adopting a tranformational vocabulary allows us to intensify or diminish any emotional state, positive or negative. This gives us the power to take any negative feelings in our lives and lower its intensity to the point that it no longer bothers us, and take the most positive experiences and move them to even greater heights of pleasure and empowerment.
+- Word are basic tool for representign things to ourselves, and often if there's no word, there's no way to think about the experience.
+  - Eg. some Native American language have no word for 'lie'. Without a word, the concept doesnt exists, nor is it part of their thinking or behavior.
+  - Tasaday tribe in the Philippines reportedly has no words for 'dislike', 'hate' or 'war'
+- We can soften emotional intensity by using modifiers
+  - "I'm just a bit peeved"
+  - "I'm feeling a tad out of sorts"
+  - "I'm beginning to get a smidge cranky"
+  - "Well thats rather inconvenient"
+  - "That shot just underwhelms me" (while playing golf)
+- Story of how an organization improved quality of work by calling their workers as craftsmen
+- All stage performers get the same kind of tension in stomach before their show. Some call it "stage fright" leading it to frighten them. Bruce Sprintsteen calls it "excitement" as he find it to be an incredibly powerful experience of entertaining people and having them love it. He turned the feeling into an ally.
+- Replace words (negative vs less negative words):
+  - angry vs disenchanted
+  - depressed vs calm before action
+  - that stinks vs that's a little aromatic
+  - pissed off vs tinkled
+  - hate vs prefer
+  - irritated vs stimulated
+  - overwhelmed vs maximized
+  - rejected vs misunderstood
+  - terrible vs different
+  - break-down vs break-through
+- good word vs great word
+  - comfortable vs smashing
+  - determined vs unstoppable
+  - fast vs ballistic
+  - fortunate vs unbelievably/blessed
+  - great vs phenomenal
+  - interested vs enthralled
+  - like vs relish
+  - okay vs perfect
+  - quick vs explosive
+  - smart vs gifted
+  - terrific vs ecstatic
+- Specially useful when taking to childrens
+  - Eg instead of saying 'Youre so stupid' or 'Youre so clumsy' you say 'I am a bit peeved about your behavior. Come over here and lets talk about it'
+  - This makes it clear that its about their behavior, not anything personal
+- Eg of how demagogues Hitler and Saddam Hussein use power of words to their advantage, Persian war, Eisenhower in Korean war, Reagen administration
+- But sometimes negative words can be useful in turning angry state into creating enough leverage for a change and action
+- We need to be very careful when giving labels to other people as once we put a lable, we create a corresponding emotion.
+- Need to be careful when giving labels to patients.
