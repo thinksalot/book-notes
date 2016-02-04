@@ -291,3 +291,37 @@
 - But sometimes negative words can be useful in turning angry state into creating enough leverage for a change and action
 - We need to be very careful when giving labels to other people as once we put a lable, we create a corresponding emotion.
 - Need to be careful when giving labels to patients.
+
+### The power of life metaphors
+- If words are symbolic then metaphors are heightened symbols
+- When someone is angry or stressed out, just by asking them as emotional question you break their pattern and take them to a different emotional state.
+- Often people are using metaphors that intensifies negative feelings
+- If someone tells me that they cant just make a progress, that they keep hitting a wall, I tell them to stop hitting it and just drill a hole throught it. Or climb over it, or tunnel under it, or walk over it.
+- The moment you represent things differently in your head, you instantly change the way you feel
+- Also, be very careful of the metaphors other people offer you aswell. A whole set of rules, idea, and preconceived notions accompany any metaphor you adopt
+  - If you believe life is a war, you might perceive it as tough and ending in death. Or you might think its going to be you against everybody. Or its dog eats dog. Or if its really a battle, you are going to get hurt
+  - If you believe life is test (like Trump), it might create a lot of stress. Maybe its going to be tough, maybe you'd better be prepared, maybe you could flunk out or cheat.
+  - For some life is a competition. It might be fun but that also means there will be other people you have to beat and there could only be one winner
+  - For some life is a game. Life might be fun. It might be somewaht competitive, it might be a change for you to play and enjoy yourself a lot more.
+  - For Mother Teresa, life is sacred.
+  - Some believe life is a gift, its surprise, something fun, something special.
+  - If it were a dance, it would be something beautiful, something you do with other people, something with grace, rythm and joy.
+- Metaphors are used at different times you help you interpret what you need to do to make changes. But all metaphors carry benefits in some context, and limitations in others.
+- Anytime you use the words "I feel like", "This is like", the word "like" is often a trigger for the use of a metaphor. So ask yourself a more empowering question "what would be a better metaphor?"
+- Imagine how people that refer their work as "back to the saltmines" or "have to put my nose to the grindstone" feel about their job
+- When people refer to their business as "assets" and people they employ as "my liabilities", imagine how it affects the way they treat people
+- Example of someone having a psychotic breakdown
+  - "I'm blacking our, I'm blacking out" -> "Then just white it out!"
+- But sometime its useful and important to get ourselves to feel negative emotions with strong intensity in order to effect change.
+- With all this power that metaphors wield, we should be careful in selecting metaphors we select to represent things to ourselves
+- Sometime a coach doesnt even teach you something new, but they remind you of what you need to do at just the right moment, and they push you to do it.
+- Example of how Martin Sheen came to see life as a mystery after a heart attack during shooting of Apocalypse Now
+  - His wife consoling him "It's just a movie babe!"
+- Pilots and sailors often describe their planes or ships as beautiful women. They would feel less inclined to keep it clean if they imagined as a big, fat guy names Joe.
+- Professional metaphors doesnt fit well in personal relationships. Alway fit the word to the deed.
+  - Example of an attorny who would use the same metaphors as in courtroom and the husband who started a perfectly innocent conversation would feel like being cross-examined in a witness stand
+  - An air traffic controller who didnt express his feelings to his wife
+  - An woman calling her husband "the old man" or "the old hag", "Prince of Darkness" instead of "lover" or "better half" which would invoke passionate feelings
+- Sees life as in the form of seasons. When things get hard, think of them as being in winter and spring always follows winter!
+- Example of overweight man called "maestro" who used to think only spiritual people got through to him and ones that were turned off by his weight were not spiritual. Thinking of his body as the temple of this soul inspired him for transformation.
+- Whenever you find yourself or someone using a metaphor that places limits, just step in, break your/their pattern, and offer a new one.
