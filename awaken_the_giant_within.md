@@ -294,30 +294,30 @@
 
 ### The power of life metaphors
 - If words are symbolic then metaphors are heightened symbols
-- When someone is angry or stressed out, just by asking them as emotional question you break their pattern and take them to a different emotional state.
+- When someone is angry or stressed out, just by asking them an emotional question you break their pattern and take them to a different emotional state.
 - Often people are using metaphors that intensifies negative feelings
-- If someone tells me that they cant just make a progress, that they keep hitting a wall, I tell them to stop hitting it and just drill a hole throught it. Or climb over it, or tunnel under it, or walk over it.
+- If someone tells me that they cant just make a progress, that they keep hitting a wall, I tell them to stop hitting it and just drill a hole through it. Or climb over it, or tunnel under it, or walk over it.
 - The moment you represent things differently in your head, you instantly change the way you feel
-- Also, be very careful of the metaphors other people offer you aswell. A whole set of rules, idea, and preconceived notions accompany any metaphor you adopt
+- Also, be very careful of the metaphors other people offer you. A whole set of rules, idea, and preconceived notions accompany any metaphor you adopt
   - If you believe life is a war, you might perceive it as tough and ending in death. Or you might think its going to be you against everybody. Or its dog eats dog. Or if its really a battle, you are going to get hurt
   - If you believe life is test (like Trump), it might create a lot of stress. Maybe its going to be tough, maybe you'd better be prepared, maybe you could flunk out or cheat.
   - For some life is a competition. It might be fun but that also means there will be other people you have to beat and there could only be one winner
-  - For some life is a game. Life might be fun. It might be somewaht competitive, it might be a change for you to play and enjoy yourself a lot more.
+  - For some life is a game. Life might be fun. It might be somewhat competitive, it might be a change for you to play and enjoy yourself a lot more.
   - For Mother Teresa, life is sacred.
   - Some believe life is a gift, its surprise, something fun, something special.
   - If it were a dance, it would be something beautiful, something you do with other people, something with grace, rythm and joy.
-- Metaphors are used at different times you help you interpret what you need to do to make changes. But all metaphors carry benefits in some context, and limitations in others.
-- Anytime you use the words "I feel like", "This is like", the word "like" is often a trigger for the use of a metaphor. So ask yourself a more empowering question "what would be a better metaphor?"
+- Metaphors are used at different times to help you interpret what you need to do to make changes. But all metaphors carry benefits in some context, and limitations in others.
+- **Anytime you use the words "I feel like", "This is like", the word "like" is often a trigger for the use of a metaphor. So ask yourself a more empowering question "what would be a better metaphor?"**
 - Imagine how people that refer their work as "back to the saltmines" or "have to put my nose to the grindstone" feel about their job
 - When people refer to their business as "assets" and people they employ as "my liabilities", imagine how it affects the way they treat people
 - Example of someone having a psychotic breakdown
   - "I'm blacking our, I'm blacking out" -> "Then just white it out!"
-- But sometime its useful and important to get ourselves to feel negative emotions with strong intensity in order to effect change.
+- But sometimes its useful and important to get ourselves to feel negative emotions with strong intensity in order to effect change.
 - With all this power that metaphors wield, we should be careful in selecting metaphors we select to represent things to ourselves
-- Sometime a coach doesnt even teach you something new, but they remind you of what you need to do at just the right moment, and they push you to do it.
+- **Sometime a coach doesnt even teach you something new, but they remind you of what you need to do at just the right moment, and they push you to do it.**
 - Example of how Martin Sheen came to see life as a mystery after a heart attack during shooting of Apocalypse Now
   - His wife consoling him "It's just a movie babe!"
-- Pilots and sailors often describe their planes or ships as beautiful women. They would feel less inclined to keep it clean if they imagined as a big, fat guy names Joe.
+- Pilots and sailors often describe their planes or ships as beautiful women. They would feel less inclined to keep it clean if they imagined as a big, fat guy named Joe.
 - Professional metaphors doesnt fit well in personal relationships. Alway fit the word to the deed.
   - Example of an attorny who would use the same metaphors as in courtroom and the husband who started a perfectly innocent conversation would feel like being cross-examined in a witness stand
   - An air traffic controller who didnt express his feelings to his wife
@@ -325,3 +325,38 @@
 - Sees life as in the form of seasons. When things get hard, think of them as being in winter and spring always follows winter!
 - Example of overweight man called "maestro" who used to think only spiritual people got through to him and ones that were turned off by his weight were not spiritual. Thinking of his body as the temple of this soul inspired him for transformation.
 - Whenever you find yourself or someone using a metaphor that places limits, just step in, break your/their pattern, and offer a new one.
+
+### The ten emotions of power
+- People will often go to great, ridiculous lengths to avoid feeling certain emptions. They'll supress all emotions and turn up as emotional androids.
+  - Example of Walt
+- The only different between a rut and a grave is a few feet, and over a century ago, Thoreau observed that "the mass of men lead lives of quiet depression"
+- There's overwheliming prevalence of this kind of disassociation in people's lives, something that just happened out of their desire to avoid pain - and the hunger with which they seize upon an opportunity to feel more alive, more passionate, more electric, avoid this "emotional flatline" and desperately seek ways to get their hearts pumping again.
+- Found basic ways people deal with emotions:
+  - Avoidance - While avoiding negative emotions may protect you in the short term, it keeps you from feeling the very love, intimacy and connection that you desire most. A much more powerful approach is to learn to find the hidden, positive meaning.
+  - Denial - If the message your emotions are trying to delivery is ignored, the emotions simply increase their amperage; they intensify until you finally pay attension. Understanding and using your emotions instead of denying them is the strategy.
+  - Competition - By stop fighting their emotions and fully indulging in them, most people intensify their emotions. It becomes their badge of honor, they pride themselves on being worse off than anyone else. It becomes a self-fulfilling prophecy where the person ends up having an investment in feeling bad on a regular basis.
+  - Learning and using - Emotions, even those that seem painful in the short term, are truly like an internal compass that points you toward the actions you must take to arrive at your goals.
+- We all know that whatever you continually look for, you will surely find. How much better it would be to adopt the global belief that "your past doesnt equal your future!"
+- The only way to effectively use your emotions is to understand that they all serve you.
+- **Emotions as action signals** - They guide you through life's most soaring highs and its most demoralizing lows. Learning to use these signals frees you from your fears and allows you to experience all the richness of which we humans are capable.
+  - They are telling you that what you're currently doing is not working, that the reason you have pain is either the way you're perceiving things or the procedures/actions you're taking, that you should change your approach.
+- You are the source of all your emotions; you are the one who creates them. So many people feel that they have to wait for certain experiences in order to feel the emotions they desire. You can feel any way you choose at any moment in time!
+- We're always waiting for the right person or right situation to come along before we feel good. But who determines whether this is the right person or situation ? When you do feel good, who's making you feel good? You are!
+- Steps to emotional mastery:
+  - Identify what you're really feeling - if you are feeling angry, ask yourself if its really anger or something else like hurt or feeling of loss. If you feel rejected, identify if its really rejection or a feeling of separation, disappointment, uncomfort etc. Identifying helps you lower the intensity of the feeling
+  - Acknowledge and appreciate your emotions knowing they support you. Cultivate the feeling of appreciation for all emotions. The idea that anything you feel is "wrong" is a great way to destroy honest communication with yourself as well as with others.
+  - Get curious about the message this emotion is offering you - Getting curious about your emotions is immediately a pattern interrupt and puts you in a state to solve the challenge and prevent similar problems in the future.
+  - Get confident - Remember how you've successfully handles such emotions in the past. Since you handles in the past, surely you can handle in the present.
+  - Rehearse handling situations in the future to be certain that you can handle this in the future too.
+  - Get excited and take action! The best time to handle an emotion is when you first feel it. Kill the monster while its little.
+- Action signals:
+  - Discomfort - Discomfort is painful but its anticipation or imagination of it occuring can be even more painful. 
+  - Fear - It means that we need to either prepare to cope with the situation, or to do something to change it. We shouldnt amplify by thinking of the worst that could happen.
+  - Hurt - It means that we have expectations that arent met (maybe by a person). Deal with it by clarifying your situation with the person.
+  - Anger - It means that an important rule or standard you hold for your life has been violated by someone else. Change your interpretation of the even, your perception or your behavior to deal with it.
+  - Frustation - It means are continuously putting in effort but arent receiving rewards. Its exiciting because it means you believe you could be doing alot better. You need to change your approach and become more flexible.
+  - Disappointment - Its the feeling of being "let down". You expect more than you get. Deal with it by understanding that you've set really far-off goals. Set easier goals you can meet. Dont plant a seed and expect a tree tomorrow. Cultivate an attitude of positive expectancy.
+  - Guilt - It tells you that you've violated one of your own highest standards and that you must do something immediately to ensure that you're not going to violate that standard again the future. The good thing is that guilt can used as the ultimate leverage to change your behavior.
+  - Inadequacy - The feeling of unworthiness. It means we dont currently have the level of skill necessary for the task at hand. Deal with it by appreciating it as an encouragement to improve. Find a role model.
+  - Overload or overwhelm - Understand the mix of emotions you are feeling, prioritize them and deal them one by one.
+  - Loneliness - The solution is to realize that you can reach out and make a connection immediately.
