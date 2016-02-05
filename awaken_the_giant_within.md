@@ -368,23 +368,23 @@
 - The giant within you will never be awakened by puny goals, you need to develop bigger, more inspiring, more challenging goals
 - Even if you think you dont have any goals, the human mind is always pursuing something, if nothing more than the ability to reduce or eliminate pain, or avoid anything that could lead to it.
 - If we dont consciously plant the seeds we want in the gardens of our minds, we'll end up with weeds!
-- If we want to discover the unlimited possibilities within us, we must find a goal big enough and grand enough to challenge us to push beyond our limits. **We all must discover or create a Mignificent Obsession**
+- If we want to discover the unlimited possibilities within us, we must find a goal big enough and grand enough to challenge us to push beyond our limits. **We all must discover or create a Magnificent Obsession**
 - Eg of young OJ Simpson crippled by rickets, having a dream of one day to break Jim Brown's records
 - Setting a goal is the first step in turning the invisible into visible - the foundation for all success in life. Its as if infinite intelligence will fill any mold you create using the impression of your intensely emotional thoughts.
 - Just like all innovation started out first by imagination, goals start to come into reality by imagining it.
-- The process of setting goals works a lot like your eyesight. The closer you get to your destination, the greater clarity you gain, not only on the goal itself, but the details of everything around it. Maybe you'll decide one of the other possibilities even better. Failing to achieve your goal might even draw you closer to your life's true purpose.
-- Often, we dont realize how far we've come because we're so caught up in the process achieving.
+- The process of setting goals works a lot like your eyesight. The closer you get to your destination, the greater clarity you gain, not only on the goal itself, but the details of everything around it. Maybe you'll decide one of the other possibilities is even better. Failing to achieve your goal might even draw you closer to your life's true purpose.
+- Often, we dont realize how far we've come because we're so caught up in the process of achieving.
   - Eg a friend telling you how much your son or daughter has grown and you are suprised although its been happening right under your nose
 - There is power in dissatisfaction, in the tension of temporary discomfort. This is the kind of pain you want in your life, the kind of pain that you immediately transform into positive new actions
 - The absense of any pressure or tension creates boredom and lackluster experience of life so may people complain about.
 - Enlist people you respect as you commit to achieve your goals
 - **Its not just the goals that matter, but also the quality of life you experience along the way**
 - Sometimes we need to trust that our disappointments may truely be opportunities in disguise
-  - Story of Micheal Brandon who playes national level javeline in highschool, went on to become an actor despire a rough childhood
+  - Story of Micheal Brandon who played national level javeline in highschool, went on to become an actor despire a rough childhood
 - Persistence overshadows even talent as the most valued and effective resource in creating and shaping the quality of life. Most people give up a maddeining five feet from their goal!
 - Poets, writers, actors and entrpreneurs are people that bring an invisible idea into life
   - Eg of Peter Guber, CEO of Sony Pictures, with films like Rainman, Batman
-- To become a champion, you need to cultivate the patience of a stonecutter. They'll change their approach but they wont abandon their ultimate vision.
+- To become a champion, you need to cultivate the patience of a stonecutter. Champions change their approach but they wont abandon their ultimate vision.
 - **Reticular activation system (RAS)** - it determines what you will notice and what you will pay attention to. It is the screening device of your mind. There are countless stimuli bombarding you right now, but your brain deletes most of it and focuses on what you believe is important. Thus RAS is directly responsible for how much of reality you consciously experience.
 - "Climb high; Climb far. Your goal the sky; Your aim the star."
 - **Remember that goals are dreams with a deadline**. The simple act of deciding when you'll achieve a goal sets in motion conscious and unconscious forces to make your goals a reality.
@@ -393,7 +393,7 @@
 - Goals are a means to an end, not the ultimate purpose of our lives. They are simply a tool to concentrate our focus and move us in a direction. The only reason we really pursue goals it to cause ourselves to expand and grow.
 - Just the action of committing your ideas to paper begins to make them more real
 - An additional distinction is that achieving a goal can be a curse unless we have already set up a new set of higher goals before we reach the first.
-  - Eg Apollo astronaut developes emotinal depression after completing their mission
+  - Eg Apollo astronauts developed emotional depression after completing their mission
   - Story of young woman who after excitedly planning a wedding for months, felt let down after the event.
   - Robin Williams's mission to help the hopeless, Arnold Schwarzenegger with the Special Olympics - successful people contributing to society after having been reached their goals.
   - Astounding number of people who die within 3 years of retiring
