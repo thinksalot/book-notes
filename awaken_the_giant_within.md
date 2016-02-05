@@ -380,7 +380,7 @@
 - Enlist people you respect as you commit to achieve your goals
 - **Its not just the goals that matter, but also the quality of life you experience along the way**
 - Sometimes we need to trust that our disappointments may truely be opportunities in disguise
-  - Story of Micheal Brandon who played national level javeline in highschool, went on to become an actor despire a rough childhood
+  - Story of Micheal Brandon who played national level javeline in highschool, went on to become an actor despite a rough childhood
 - Persistence overshadows even talent as the most valued and effective resource in creating and shaping the quality of life. Most people give up a maddeining five feet from their goal!
 - Poets, writers, actors and entrpreneurs are people that bring an invisible idea into life
   - Eg of Peter Guber, CEO of Sony Pictures, with films like Rainman, Batman
