@@ -440,19 +440,19 @@
 
 ### Life values: your personal compass
 - Story of Ross Perot and how he selected a team of men for a very difficult mission
-  - whole beliefs of courage, loyalty, love, commitment and determination allowed him to attemp and free his executive from Iran when all diplomatic efforts failed.
+  - beliefs of courage, loyalty, love, commitment and determination allowed him to attempt and free his executives from Iran when all diplomatic efforts failed.
   - rose to top because of his capacity to evaluate and select the right men
   - knew that with the right people, those who held high enough standards, all he'd have to do was give them the job to do and get out of their way
-- Story of maverick math teacher Jaime Escalante in the movie Stand and Delivery. He held high standards, encouragement, expectations and absolute determination led his students to achieve what many thought was impossible
+- Story of maverick math teacher Jaime Escalante in the movie Stand and Delivery. His high standards, encouragement, expectations and absolute determination led his students to achieve what many thought was impossible
 - We must remember that all decisions making comes down to values clarification. When you know whats important, making a decision is quite simple.
 - The direction of our lives is controlled by the magnetic pull of our values. This is true for individuals, companies and even organizations.
 - We must live by our principles even when it "rains on our parade", even if no one gives us the support we need. If we dont, we're sure to experience intense pain.
 - Every decision is guided by our values, and in many cases we didnt set them up. Its hard to hit a target if you dont know what it is! Knowing your values is critical to being able to live them.
-- There are basically two types of values: ends and means. If you values love, money & family, money and family are the means values which allow you to pursure the end value which is love.
+- There are basically two types of values: ends and means. If you values are love, money & family, money and family are the means values which allow you to pursure the end value which is love.
 - So often people are too busy pursuing means values that they dont achieve their true desire: their ends value. The ends values are those that will fulfill you, make your life rich and rewarding.
 - "Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others thing you are" - John Wooden
 - Once you know the hierarchy of your values, you can see why sometimes you have difficulty making decisions or why there may be conflicts in your life. For eg, if someone's number-one value is freedom, and number two is intimacy, these two incompatible values are so closely ranked that often this person will have challenges.
-  - Story of Robbins's daughter achieving here dream of working in Disneyland but not finding true happiness as it conflicted with here other values of love, health and fitness.
-- If you selected success as your top moving-towards value and rejection as your moving-away value, this hierarchy might create a lot of challenges in your life. People will do more to avoid pain than to gain pleasure.
+  - Story of Robbins's daughter achieving her dream of working in Disneyland but not finding true happiness as it conflicted with here other values of love, health and fitness.
+- If you selected success as your top moving-towards value and rejection as your top moving-away value, this hierarchy might create a lot of challenges in your life. People will do more to avoid pain than to gain pleasure.
 - Ask yourself: "What do my values need to be in order to achieve the destiny I desire and deserve ?"
 - "We are what we repeatedly do." - Aristotle
