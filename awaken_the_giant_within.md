@@ -459,13 +459,13 @@
 
 ### Rules: if you're not happy, here's why
 - Rules determine what has to happen for us to feel good. 
-  - Story of people gathered for an eclipse. Account of how not being able to see the eclipse cause one man to get so upset that he broke his camera while experience joy for being part of the spectacle.
+  - Story of people coming together for an eclipse. Account of how not being able to see the eclipse caused one man to get so upset that he broke his camera while experience joy for being part of the spectacle.
 - The truth is that nothing has to happen in order for you to feel good. If you make a million dollars, the million dollars doesnt give you any pleasure. Its your rule that says, "when i hit this mark, then i'll give myself permission to feel good"
 - As long as we structure our lives in a way where our happiness is dependent upon something we cannot control, then we will experience pain.
 - We can feel good about a situation if we decide to enjoy a situation no matter what.
-- We can make happiness a priority but if our condition for happiness is that everything must go according to plan then we are not goint to experience happiness on a consistent basis. Life is a variable event so our rules must be organized in ways that allow us to adapt, grow, and enjoy.
+- We can make happiness a priority but if our condition for happiness is that everything must go according to plan then we are not going to experience happiness on a consistent basis. Life is a variable event so our rules must be organized in ways that allow us to adapt, grow, and enjoy.
 - Our beliefs about what is good and what is bad, what we should do and what we must do. These precise standards and criteria are what we call rules.
-- Story of Gregory Bateman's conversation with his daughter, how she wanted things to be organized perfectly else its would be 'muddled'.
+- Story of Gregory Bateman's conversation with his daughter, how she wanted things to be organized perfectly else it would be 'muddled'.
   - Its not that things get muddled so easily, its that we have more ways for things to get muddled. We have only one way for things to be perfect.
 - Most of us have created numerous ways to feel bad, and only a few ways to truly feel good.
 - Conversation with a man whose reason for thinking he was successful was "All i have to do is get up, look down and a see that I am above ground!"where as the indicators of success for a CEO was $2 million in bonuses on top of $1.5 annual salary.
@@ -478,8 +478,33 @@
 - Ethnocentricity - idea in sociology where we begin to believe that the rules, values and beliefs of our cultures are the only ones that are valid. This is extremely limiting mindset. We must think that there are no right or wrong beliefs, just empowering and disempowering ones.
 - At the base of every emotional upset you've ever had with another human being is a rules upset.
   - For eg some people will say 'if you respect me, then you never raise your voice' others might say 'if you respect me, you're truthful about youre feelings '
-  - For some people, the rule for handling upset is "if you care about me, then you leave me alone and lef me deal with it my own way". Others might say "if somebody's upset, and you care about them, you immediately intervene and try to help"
+  - For some people, the rule for handling upset is "if you care about me, then you leave me alone and let me deal with it my own way". Others might say "if somebody's upset, and you care about them, you immediately intervene and try to help"
 - Any relationship - business or personal - can be instantly tranformed just by getting clear on the rules and making an agreement to play by them. How can we ever hope to win a game if we dont even know the rules ?
 - In order to achieve certain outcomes, its important to have plenty of "must" rules to make sure we'll follow through.
 - Design your rules so that you're in control, so that the outside world is not what determines whether you feel good or bad. Set it up so that its incredibly easy for you to feel good, and incredibly hard to feel bad.
 - Make the game winnable by stacking the deck outrageously in your favor!
+
+### References: the fabric of life
+- A review of the most significant and impactful reference experiences of people's lives gives us an idea about why they do what they do.
+- A person who has experienced and trimphed over tremendous adversity clearly has strong references from which to build a consistent level of confidence and belief to overcome challenges
+- The emotions and feeling or the mental state we are currently in determines what references we use. When we are in fear, only fearful experiences are available to us. Fear leads to reference of fear which leads to multiplied fear
+- Belief is nothing but a feeling of certainty about what something means.
+- Should we craft a curtain using our references to hide behind, or should we fashion a magic carpet that will carry us to unequalled heights?
+- Sometimes we lose perspective that good and bad are merely based upon our references.
+- Our imagination is also a source of our reference. Imagination is ten times more potent than our willpower. It enables Roger Bannister to achieve the 4 minute mile
+- We need to learn from our past, not live in it - focus on the things that empower us.
+- By reading the biographies of successful people, we learn that regardless of their background or conditions, their sense of certainty and consistent contribution led them to success. The power of reading a great book is that you start thinking like the author. Plus, each time you read a book you learn something new.
+- "Imagination is more important that knowledge" - Albert Einstein
+- Often bad references can help you keep your life in balance. They provide a level of contrast that no matter how bad you think things are in your life, its good to remember that someone else has it worse. Establish the simple and profound belief: "I have no problems". Using contrasting references is one of the most powerful ways to change our perspectives and our feelings.
+- When you think you're skills have reached highest levels, theres always someone we has achieved higher. This belief helps us to constantly expand and grow.
+- What seem like the worst days in our lives are actually the most powerful in terms of the lessons we can choose to learn from them
+- Just remember, loss is imaginary. Nothing ever disappears in the universe; it only changes form.
+- Rarely does a good idea interrupts you; you must actively seek it. Empowering ideas and experiences must be pursued.
+- We live in a galaxy that contains several hundred thousand million stars. Then realize that we live in a universe that has several hundred thousand million galaxies. The stars in our galaxy make one turn around the Milky Way's axis only once every several hundred million years. When you think about it, the human life span is but a speck in time. And yet people worry themselves to death about things that mostly mean nothing.
+- Leaders are readers. Expand your references by reading.
+- Exposing ourselves to many different types of references as possible gives us greatest level of choice and understanding in life.
+- Go meet some strangers and tell some stories.
+- If we want to understand and appreciate people, one of the most powerful ways is to share some of their references. Any limits that you have in your life are probably jut the result of limited references. Expand your references and you'll immediately expand your life.
+- "The only way to discover the limits of the possible is to go beyond them into the impossible" - Arthur C. Clarke
+- Everything in life happens for a reason and a purpose, and it serves us. Sometimes it takes years or decades for us to find value. But there is value in all human experiences.
+- Its the moments of our lives that shape us. Its up to us to pursue and create the moments that will lift us and not limit us.
