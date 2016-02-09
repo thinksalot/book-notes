@@ -416,3 +416,24 @@
   - Force of habit: Like a plane on automatic pilot, our brain dredges up the same old response it always has. We face an obstacle and see the problem instead of the solution.
 - **Success if processional**. Its the result of a series of small disciplines that lead us into habitual patterns of success that no longer require consistent will or effort.
 - Reading is another good way to break bad habits. Reading things of substance, something of value, something that was nuturing, something that teaches you new distinctions in real life.
+- "Miss a meal, but dont miss your reading"
+
+### Ultimate influence: your master system
+- Most of us dont realize we have a personal philosophy, much less the power it has to direct our evaluations of what things mean to us
+- We cannot judge people simply by their behaviors. **People are not their behaviors**.
+- The key to understanding people is to understand their master system. We all have a system of procedure that we go through in order to determine what things mean to us and what we need to do about them in virtually any situation in life. Different things are important to different people and they'll evaluate whats happening differently based upon their perspective and conditioning.
+  - Eg you hitting a poor serve in a tennis match. From the judge's perspective, it was neither good or bad, its only either in or out. But people start generalizing this - often in a disempowering way. "What a terrible serve" becomes "I couldnt serve today to save my life". This generalization picks up speed, moving to "I'm a horrible tennis player" to "I never seem to master anything" to "I'm a horrible person"
+  - If we fail to take control of our evaluation process, it literally runs wild and sweeps us into a spiraling pattern of self-recrimination
+- Success all boils down to people making superior evaluations in their area of expertise. If someone is doing better than we are in any area of life, its simply because they have a better way of evaluating what things mean and what they should do about it.
+- Master system consists of:
+  - State: our emotional and mental state
+  - The questions we ask
+  - Our values
+  - Our global beliefs
+  - Our reference experiences
+- One key way to make superior evaluations is to make sure we are making them in  an extremely resourceful state rather than in survival mode.
+- Eg of Dwayne Chapman "Dog" who is very successful in tracking down felons. One explaination is that he understands their references, beliefs, their master system which allows him to anticipate their moves with uncanny precision.
+- **"I am the source of all my emotions. Nothing and no one can change how I feel except me. If I find myself in reaction to anything, I can change it in a moment."**
+- Understading the master system allows you to eliminate the cause instead of exhausting yourself fighting the effects.
+- Some people make so many evaluations that a minor decision turns into a major production. For eg for some, excercising can be mean going to the gym and excercising. For others it might mean getting up, wearing workout clothes, shoes, pack gym bag, find a parking spot, sign in, go to the locker, change, excercise and repeat all the steps in reverse.
+- Evaluating too many details can cause us to geel overloaded or overwhelmed. Instead, put many minor steps in one big "chunk".
