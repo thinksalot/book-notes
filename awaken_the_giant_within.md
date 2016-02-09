@@ -435,5 +435,5 @@
 - Eg of Dwayne Chapman "Dog" who is very successful in tracking down felons. One explaination is that he understands their references, beliefs, their master system which allows him to anticipate their moves with uncanny precision.
 - **"I am the source of all my emotions. Nothing and no one can change how I feel except me. If I find myself in reaction to anything, I can change it in a moment."**
 - Understading the master system allows you to eliminate the cause instead of exhausting yourself fighting the effects.
-- Some people make so many evaluations that a minor decision turns into a major production. For eg for some, excercising can be mean going to the gym and excercising. For others it might mean getting up, wearing workout clothes, shoes, pack gym bag, find a parking spot, sign in, go to the locker, change, excercise and repeat all the steps in reverse.
+- Some people make so many evaluations that a minor decision turns into a major production. For eg for some, exercise can mean going to the gym and exercising. For others it might mean getting up, wearing workout clothes, shoes, pack gym bag, find a parking spot, sign in, go to the locker, change, exercise and repeat all the steps in reverse.
 - Evaluating too many details can cause us to geel overloaded or overwhelmed. Instead, put many minor steps in one big "chunk".
