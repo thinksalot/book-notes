@@ -456,3 +456,30 @@
 - If you selected success as your top moving-towards value and rejection as your top moving-away value, this hierarchy might create a lot of challenges in your life. People will do more to avoid pain than to gain pleasure.
 - Ask yourself: "What do my values need to be in order to achieve the destiny I desire and deserve ?"
 - "We are what we repeatedly do." - Aristotle
+
+### Rules: if you're not happy, here's why
+- Rules determine what has to happen for us to feel good. 
+  - Story of people gathered for an eclipse. Account of how not being able to see the eclipse cause one man to get so upset that he broke his camera while experience joy for being part of the spectacle.
+- The truth is that nothing has to happen in order for you to feel good. If you make a million dollars, the million dollars doesnt give you any pleasure. Its your rule that says, "when i hit this mark, then i'll give myself permission to feel good"
+- As long as we structure our lives in a way where our happiness is dependent upon something we cannot control, then we will experience pain.
+- We can feel good about a situation if we decide to enjoy a situation no matter what.
+- We can make happiness a priority but if our condition for happiness is that everything must go according to plan then we are not goint to experience happiness on a consistent basis. Life is a variable event so our rules must be organized in ways that allow us to adapt, grow, and enjoy.
+- Our beliefs about what is good and what is bad, what we should do and what we must do. These precise standards and criteria are what we call rules.
+- Story of Gregory Bateman's conversation with his daughter, how she wanted things to be organized perfectly else its would be 'muddled'.
+  - Its not that things get muddled so easily, its that we have more ways for things to get muddled. We have only one way for things to be perfect.
+- Most of us have created numerous ways to feel bad, and only a few ways to truly feel good.
+- Conversation with a man whose reason for thinking he was successful was "All i have to do is get up, look down and a see that I am above ground!"where as the indicators of success for a CEO was $2 million in bonuses on top of $1.5 annual salary.
+- You could be winning and feel like you're losing because the scorecard you're using is unfair.
+- We have created a set of rules that cause us to feel angry, frustated etc and these emotions affect the way we treat other people. We also expect others to comply with our rules even though we never express them. We are being hard on ourselves and equally on others too.
+  - Such strict rules might lead to learned helplessness where we think that no matter how much we try, we're not going to improve.
+- If we dont make the rules achievable, you'll never feel like our values are being met. So select empowering, achievable goals. Make it easy to feel good and hard to feel bad.
+- We need to remember that our self-esteem is tied to our ability to feel like we're in control of the events in our environment. So if we rewire our life so that things are achievable, we instantly feel in control.
+- Life will give you enough pain in your own if you dont follow through. You dont need to add to it by creating an intense set of rules that makes you feel lousy all the time.
+- Ethnocentricity - idea in sociology where we begin to believe that the rules, values and beliefs of our cultures are the only ones that are valid. This is extremely limiting mindset. We must think that there are no right or wrong beliefs, just empowering and disempowering ones.
+- At the base of every emotional upset you've ever had with another human being is a rules upset.
+  - For eg some people will say 'if you respect me, then you never raise your voice' others might say 'if you respect me, you're truthful about youre feelings '
+  - For some people, the rule for handling upset is "if you care about me, then you leave me alone and lef me deal with it my own way". Others might say "if somebody's upset, and you care about them, you immediately intervene and try to help"
+- Any relationship - business or personal - can be instantly tranformed just by getting clear on the rules and making an agreement to play by them. How can we ever hope to win a game if we dont even know the rules ?
+- In order to achieve certain outcomes, its important to have plenty of "must" rules to make sure we'll follow through.
+- Design your rules so that you're in control, so that the outside world is not what determines whether you feel good or bad. Set it up so that its incredibly easy for you to feel good, and incredibly hard to feel bad.
+- Make the game winnable by stacking the deck outrageously in your favor!
