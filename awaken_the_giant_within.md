@@ -508,3 +508,32 @@
 - "The only way to discover the limits of the possible is to go beyond them into the impossible" - Arthur C. Clarke
 - Everything in life happens for a reason and a purpose, and it serves us. Sometimes it takes years or decades for us to find value. But there is value in all human experiences.
 - Its the moments of our lives that shape us. Its up to us to pursue and create the moments that will lift us and not limit us.
+
+### Identity: the key to expansion
+- What we can or cannot do, what we consider possible or impossible, is rarely a function of our true capability. Its more likely a function of our beliefs about who we are.
+- Its important to realize that we define ourselves not only by who we are, byt by who we are not.
+- Your capability is constant, but how much of it you use depends upon the identity you have for yourself.
+- Researchers have shown that students' capabilities are powerfully impacted by the identities they develop for themselves as the result of teachers' belief in their level of intelligence.
+- The kind of person other people perceive you to be controls their responses to you. If someone thinks a person is crook, they will search for sinister motives even if the person's action is good and honest. Even worse, after making a positive change, we often allow others in our environment who have not changed their image of us to anchor our own emotions and beliefs back into our old behaviors and identities.
+- "The best effect of fine persons is felt after we have left their presence" - Emerson
+- We all will act consistently with our views of who we truly are, whether that view is accurate or not. The reason for this is our strong need to consistency. If we arent consistent in our actions and words, we get labelled as hypocritical, fickle, unstable so we link massive pain to the idea of being labeled this way. Conversely, consistent people are called loyal, steady, intelligent, rational etc.
+- Similarly, if we think we are "learning disabled", its affects the way we learn. Instead if we think our learning strategy is ineffective, we think that our stragegy can be changed easily.
+- A persona who wants to stop drug-addiction but identifies himself as an addict might have a hard time chaning himself. It he indentifies himself as "leader", "healthy person" or "Chirstian" his chances are dramatically increased. This is conviction he holds, he will ignore and even defend againsts anything contrary to his belief. Secondly, its easier to maintain negative behavior and blame on external factors that he cannot control. His chances are dramatically increased. This is because whatever he believes in, he will ignore and even defend againsts anything contrary to his belief.
+- Simply state with absolute certainty "I'm not that kind of person. That's who I used to be."
+- Shift in idenfity can cause in your entire Master system - your rules, states, values, beliefs, questions you ask are changed.
+- More American POW's informed on fellow prisoners during Korean War than any other war. By making a request to say something like "The United states is not perfect" or "It's true in a Communist country that unemployment is not a problem", chinese would simply start small and build. Our need for consistency leads us to back up a statement we make and thats what the soldiers did. When asked "what other social benefits are there to communism?" on an exhausted state, the GIs would produce a document of not only attacking their own nation, but also promoting communism. When later broadcasted as a "collaborator" to fellow prisoners, the prisoner would find himself publicly identified as such and needed to justify his acts to himself and thats what became his identity. Suddenly, he himself would identify himself as pro-Communists and all those around him also labeled him as such. They would reinforce his new identify by treating him the same way they treated the communist guards.
+- When asked if they would undergo a painful bone-marrow extraction to help a stranger, most people answered absolutely no. But when asked to make small commitment first and followed up with two simple acts which made not volunteering seem "out of character", many began to develop new identity. The began to see themselves as "donors"
+- There is no more potent leverage in shaping human behavior then identity.
+- Identity crisis/midlife crisis - when people behave inconsistently with who they believe they are.
+  - Having an identity that is specifically linked to your age or how you look would definitely set you up for pain because these things will change.
+- Story of how Xerox failed to identify itself as a computer company because its monk logo with manuscripts symbolised something else.
+- Story of Les miserables. How policeman having found that he was possibly the one who was cruel and evil, commits suicide.
+- "When written in Chinese, the word 'crisis' is composed of two characters - one represents danger, and the other represents opportunity" - John F. Kennedy
+- The identify of our peers and friends tend to affect us aswell. Who you believe they are is often a reflection of who you believe you are.
+- **First, understand who you are.**
+- A child is one day Zorro, another day he's Hercules and something else the next day. Likewise, we could also completely redefine ourselves any day we want.
+- While most people decide to feel confident after they feel competent, you can feel decide to feel comfident right now!
+- Identify the highest elements of your self, and view those facets of you that are not yet perfect as an opportunity for growth rather than as character flaws.
+- We need to expand the view of who we are. We need to make certain that the labels we put upon ourselves are not limits but enhancements, that we add to all thats already good within us - for whatever you and I begin to identify with, we will become. This is the power of belief.
+- "We are not human beings having a spiritual experience. We are spiritual beings having a human experience" - Wayne Dyer
+- Get yourself to do those things you dont think you can do, and use your new actions as a reference that gives you a sense of certainty that you're more than you thought.
