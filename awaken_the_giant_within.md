@@ -400,3 +400,19 @@
   - Elderly or ill people who are closed to death often hang on until just after the holidays. In China, the dealth rate drops off until right before and during major festivals, and picks up again as soon as the festivals are over.
   - Colonel Harlan Sanders founding KFC at age 65
   - "You have to to have something to get you out of bed. I cant do anything in bed, anyway.The most important thing is to have a point, a direction you're headed" - George Burns
+
+### The ten-day mental challenge
+- The mark of a champion is consistency - and true consistency is established by our habits.
+- The leader's path is one of balance. He notes the weeds with a smile upon his face, knowing that the weeds' visit to the garden is all but over - because he's spotted them; he can and will immediately act to remove them.
+- There will be more weeds that continue to come up. And unless you want to live in reaction to the world every time problems occur, you need to remember that they're actually an important part of life. They keep you vigorous, they keep you strong, they keep you vigilant in noticing what needs to be done to keep the garden of your life healthy and rich.
+- Use **mental diet** to interrupt limiting pattern. The best way to do this is to take a set of period of time and take conscious controle of all your thoughts, cleanse it of all the emotionally reactionary and mentaly undisciplined thoughts.
+- Many people live is a continual state of stress and worry because we think it helps. We believe that this compels us to take action. But worry puts you in a very unresourceful state which instead of empowering us, overwhelms us with frustation and fear.
+- Every great, successful person shares the capacity to remain centered, clear and powerful in the midst of emotinal 'storms'. Most of them have a fundamental rule: **in life, never spend more that 10 percent of your time on the problem, and spend at least 90 percent of your time in the solution.**
+- "We first make our habits, and then our habits make us" - John Dryden
+- Ten day challenge - for 10 days, spend 100 percent of your time on solutions, and no time on problems!
+- 3 main things prevents us from doing things:
+  - Laziness
+  - Fear: the security of mediocre present is more confortable that the adventure of trying to be more in the future
+  - Force of habit: Like a plane on automatic pilot, our brain dredges up the same old responsed it always has. We face an obstacle and see the problem instead of the solution.
+- Success if processional. Its the result of a series of small disciplines that lead us into habitual patterns of success that no longer require consistent will or effort.
+- Reading is another good way to break bad habits. Reading things of susbtance, something of value, nuturing, something that teaches you new distinctions in real life.
