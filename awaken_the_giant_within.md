@@ -491,12 +491,12 @@
 - Belief is nothing but a feeling of certainty about what something means.
 - Should we craft a curtain using our references to hide behind, or should we fashion a magic carpet that will carry us to unequalled heights?
 - Sometimes we lose perspective that good and bad are merely based upon our references.
-- Our imagination is also a source of our reference. Imagination is ten times more potent than our willpower. It enables Roger Bannister to achieve the 4 minute mile
+- Our imagination is also a source of our reference. Imagination is ten times more potent than our willpower. It enabled Roger Bannister to achieve the 4 minute mile
 - We need to learn from our past, not live in it - focus on the things that empower us.
 - By reading the biographies of successful people, we learn that regardless of their background or conditions, their sense of certainty and consistent contribution led them to success. The power of reading a great book is that you start thinking like the author. Plus, each time you read a book you learn something new.
 - "Imagination is more important that knowledge" - Albert Einstein
 - Often bad references can help you keep your life in balance. They provide a level of contrast that no matter how bad you think things are in your life, its good to remember that someone else has it worse. Establish the simple and profound belief: "I have no problems". Using contrasting references is one of the most powerful ways to change our perspectives and our feelings.
-- When you think you're skills have reached highest levels, theres always someone we has achieved higher. This belief helps us to constantly expand and grow.
+- When you think you're skills have reached highest levels, theres always someone who has achieved higher. This belief helps us to constantly expand and grow.
 - What seem like the worst days in our lives are actually the most powerful in terms of the lessons we can choose to learn from them
 - Just remember, loss is imaginary. Nothing ever disappears in the universe; it only changes form.
 - Rarely does a good idea interrupts you; you must actively seek it. Empowering ideas and experiences must be pursued.
@@ -504,7 +504,7 @@
 - Leaders are readers. Expand your references by reading.
 - Exposing ourselves to many different types of references as possible gives us greatest level of choice and understanding in life.
 - Go meet some strangers and tell some stories.
-- If we want to understand and appreciate people, one of the most powerful ways is to share some of their references. Any limits that you have in your life are probably jut the result of limited references. Expand your references and you'll immediately expand your life.
+- If we want to understand and appreciate people, one of the most powerful ways is to share some of their references. Any limits that you have in your life are probably just the result of limited references. Expand your references and you'll immediately expand your life.
 - "The only way to discover the limits of the possible is to go beyond them into the impossible" - Arthur C. Clarke
 - Everything in life happens for a reason and a purpose, and it serves us. Sometimes it takes years or decades for us to find value. But there is value in all human experiences.
 - Its the moments of our lives that shape us. Its up to us to pursue and create the moments that will lift us and not limit us.
